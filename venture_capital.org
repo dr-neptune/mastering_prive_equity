@@ -1,0 +1,9 @@
+#+TITLE: Venture Capital
+
+A lot of this is familiar from dinking about hackernews and reading PG essays
+
+* Venture Capital Term Sheets
+
+Term sheets serve as the main negotiation tool in VC fundraising and, once agreed upon, set out the rights and obligations of investors in a round's newly created preferred share class.
+
+* Key Learning Points

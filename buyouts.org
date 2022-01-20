@@ -1,0 +1,106 @@
+#+TITLE: Buyouts
+
+* Buyouts Defined
+
+Buyout funds acquire controlling equity stakes in companies that allow them to restructure the targets' financial, governance, and operational characteristics.
+
+Three components define a buyout strategy:
+
+- Equity Control
+ - at least enough that the fund has the right to dictate strategic and operational decision via the board of directors
+- Leverage
+ - Most buyouts are leveraged, with a significant portion of the transaction financed through debt
+ - Leveraged capital structures increase an investor's return on capital by reducing the amount of equity required to fund its transactions. OTOH, it allows the buyer to command a higher purchase price than would be possible to reach without debt.
+- Economic Alignment
+ - The management compensation plans used provide senior executives with meaningful equity stakes in the target company and substantial upside in the event of a successful exit.
+
+* Leveraged Buyout Funding
+
+In a LBO, buyout investors combine their fund's equity capital with debt capital raised from a range of lenders to acquire a target company. While the specific instructments employed vary deal by deal, typical LBO financing consists of senior debt, junior debt, and equity capital.
+
+** Senior Debt
+
+Typically issued by one or more banks and represents the largest portion of debt raised for a LBO.
+It typically has a priority claim on the company's assets in case of bankruptcy and it usually "secured"
+against specific company assets, strengthening senior debtholders' bankruptcy rights.
+
+** Junior Debt
+
+The remaining debt capital in a buyout. The most common forms are mezzanine financing raised in the private
+institutional market and high-yield bonds raised from the public bond markets.
+
+** Equity Capital
+
+Typically accounts for 25-50% of LBO funding. May be sourced from a single buyout fund or a consortium of funds, management team members, and LP co-investors.
+Equity is the most junior funding instrument, with only a residual claim on operating cash flow and company assets in the event of a bankruptcy or restructuring.
+
+* Management Teams in a Buyout
+
+As controlling shareholders, buyout investors have full discretion to choose the teams they work with.
+Depending on how active the role of the management team is during the acquisition process, one can
+distinguish several types of buyouts, namely:
+
+** Management Buyout (MBO)
+
+In a MBO, the incumbent management team initiates the buyout of a company or corporate division with the financial backing of a buyout fund. When successful, MBOs provide management teams with the opportunity to work in an entrepreneurial environment (i.e. to capitalize on new growth opportunities). If unsuccessful, a failed MBO attempt may lead to alienation between senior management, existing owners, and company staff.
+
+** Management Buyin (MBI)
+
+A buyout fund partners with an external management team to pursue an acquisition of a portfolio company. If successful, new management with an equity stake in the firm will replace the incumbent management team.
+
+** Institutional Buyout (IBO)
+
+The buyout is initiated by a PE firm without the support of the incumbent or external management team.
+Rather, a buyout fund negotiates directly with the seller, with little or no support from any mgmt team
+until the acquisition terms have been agreed.
+
+IBOs are by far the most common form of buyouts in mid to large-sized transactions.
+
+* Types of Buyout Transactions
+
+These are the most common strategies employed by buyout funds:
+
+** Public to Private
+
+Also known as take-privates. The principal motivation for taking a company private lies in reduced agency risk -
+resulting from the often tenuous alignment of interests between public shareholders (the principals) and company
+management teams (the agent) - under a single owner
+and
+the implementation of a governance structure that increases accountability of the management team.
+
+Delisting a business eliminates the costs associated with public reporting and the focus on short-term, quarterly earnings.
+This frees the mgmt to focus on long-term value creation and allows the company to carry more leverage.
+
+** Carve-Out
+
+Buyout funds often acquire a corporate division, business unit, or subsidiary and set it up as a stand-alone company.
+
+In carve-outs, PE firms principally unlock value by developing a robust strategy for the new, stand-alone company,
+establishing governance and control systems and providing adequate funding to expand business operations.
+
+** Privatization
+
+Government privatization programs provide a rich source of targets for buyout funds.
+Generally they take a state-owned institution and reduce cost inefficiencies, provide fresh resources,
+and focus mgmt on profit maximization.
+
+** Family Business
+
+Privately owned family businesses are a popular target for buyout funds, as external mgmt teams installed
+by a fund can rapidly professionalize a business and drive value creation. Updated corporate governance measures,
+including the establishment of a formal advisory board with independent directors, can help remove biases related to
+personal relationships and introduce checks and balances at appropriate levels of the business.
+
+** Secondary Buyout
+
+Portfolio companies controlled by another buyout fund are frequent acquisition targets and such transactions
+are referred to as secondary buyouts. Often, a larger portion of debt financing can be secured for a secondary buyout.
+
+* Key Learning Points
+
+- In a buyout, PE investors acquire a controlling equity stake in a target allowing them to make all financial, strategic, and operational business decisions.
+- Management teams execute the investment strategy of the fund, making it paramount to create an incentive scheme that
+aligns the interests of management and PE owners
+- Most buyouts are structured as leveraged buyouts, with debt financing a large portion of the acquisition price
+
+* Case 11: Chips on the Side (A): The buyout of Avago Technologies

@@ -1,0 +1,83 @@
+#+TITLE: Alternative Strategies
+
+Most deals in PE consist of venture capital, growth equity, and buyout deals.
+This section will look at two alternative strategies: distressed PE and real asset investing
+Distressed PE investing often includes corporate turnaround and distressed debt strategies
+Real asset investing includes real estate, infrastructure, and natural resources
+
+* Distressed Private Equity
+
+Distressed PE funds invest in mature companies in need of substantial restructuring in the face
+of imminent failure or bankruptcy. PE funds in this space subscribe to a common approach: gain
+control of an asset at a discounted valuation and drive the restructuring process quickly and efficiently
+
+** Turnaround Investing
+
+Turnaround funds acquire majority equity stakes in mature companies that are in considerable operational stress.
+
+Target companies are typically generating significant operating losses and burning through cash reserves at the time of investment. The MO for a turnaround fund is an immediate maximization of short-term cash flow to stabilize the business and avoid insolvency. A detailed short-term cash flow analysis (13 week cash flow is the industry best practice) needs to be performed.
+
+** Distressed Debt Investing
+
+Distressed debt funds acquire stakes in the debt obligations of companies in financial distress to generate returns either through the appreciation of the debt or an eventual restructuring of the target company.
+
+** Direct Lending
+
+Direct lending is a form of corporate lending in which debt funds issue loans directly to a business or acquire these loans in the secondary debt market. Borrowers are typically small and medium sized enterprises that find it difficult to obtain bank financing or may be looking to diversify their funding base.
+
+** Transaction Financing
+
+Debt funds also provide capital to finance LBOs. In this instance, debt funds typically provide junior debt while banks provide the senior debt tranche. The most common financing debt instrument is mezzanine capital.
+
+Mezzanine financing is a hybrid of debt and equity financing that gives the lender the right to convert an equity interest in the company in case of default, generally, after venture capital companies and other senior lenders are paid.
+
+* Real Assets
+
+Funds investing in industries such as real estate, infrastructure, and natural resources are generally classified as a subset of the PE asset class known as real asset investors.
+
+** Real Estate
+
+Real estate funds employ three main strategies:
+- core-plus
+  focused on mature projects that produce stable cash flows. Typically require minimal, if any, renovation to boost
+  property values and the majority of the return is from rent payments and leases.
+- value-add
+  focuses on acquiring mature projects that require significant investment and renovation to realize value.
+  relies on asset appreciation rather than cash flows for the majority of returns
+- opportunistic
+  invests in high-risk projects at various stages of maturity, ranging from investment in raw land to pre-construction
+  projects to distressed mature projects.
+
+and inveset across the four subsectors of real estate:
+- residential
+- office
+- retail
+- industrial properties
+
+** Infrastructure
+
+Infrastructure funds invest in projects that develop and operate physical structures and facilities in sectors such as transportion, communication, utilities, conventional energy supply chains, renewable energy, and social infrastructure (hospitals, schools, or prisons).
+
+PE Funds typically invest in 3 types of projects, in descending order of risk:
+- greenfield
+- rehabilitation brownfield
+- core brownfield
+
+** Natural Resources
+
+The success of and demand for PE funds investing in natural resources is closely tied to the highly volatile and cyclical price of the underlying commodities.
+
+PE investment activity focuses primarily on three subsectors:
+- oil and gas
+- metals and mining
+- agriculture or agribusiness
+
+Within these subsectors, activity is divided into exploration, development, and production projects.
+
+* Key Learning Points
+
+- Aside from mainstream PE, two alternative strategies, distressed PE and real assets, have gained prominence in recent years
+- Distressed investing requires a specific skillset geared either towards operational improvements (turnaround investing) or balance sheet optimization (distressed debt). In all distressed situations, a laser-like focus on cash and stakeholder management is required
+- Real asset investments divide into 3 strategies: real estate, infrastructure, and natural resources. Long holding periods, low correlation wit traditional asset classes, and the stable cash generation of mature projects have made them attractive investments to certain types of institutional investors.
+
+* Case #17: Rice from Africa for Africa: Rice Farming in Tanzania and Investing in Agriculture

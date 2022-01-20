@@ -1,0 +1,121 @@
+#+TITLE: Deal Pricing Dynamics
+
+The initial valuation of a company is based on an incomplete set of information and assumptions around business plan drivers. Given these uncertainties, a target's initial valuation will likely be adjusted as further due diligence uncovers
+additional risk factors or challenges to the planned improvement or growth of the company's business.
+
+This chapter covers 3 major steps in deal pricing:
+1. Bidding for a deal (what you must pay to win)
+2. Buyout pricing adjustments to the bid and closing mechanisms
+3. Post-closing Price Adjustments
+
+* Bidding for a Deal | Setting the Price and Winning the Deal
+
+Bids for target companies are often made with imperfect information. The amount of data available to the PE firm
+will change over the course of the due diligence process and bidders revise their bid as new facts emerge and
+competitive tension comes into play.
+
+For example, 2 key reference points for valuation in buyout investments are the last 12 months (LTM), or alternatively,
+the forward looking next 12 months (NTM) EBITDA and the respective EBITDA multiple.
+Throughout the process, EBITDA adjustments might be required as more information becomes available. These adjustments
+may be driven by a number of factors: revenue and cost recognition policies, pro forma adjustments for acquisitions and
+disposals, and management compensation and expenses.
+
+In addition, new information can drive adjustments to the EBITDA multiple, as performance and market-adjusted riskat comparable companies change and new comparable transactions are executed.
+
+Another key input factor for the bid price is the planned amount and structure of debt in the transaction. This is
+usually determined in cooperation with lead financing banks. Buyout firms typically consider multiple debt offers
+from a range of competing banks when pursuing a buyout, which can have an impact on pricing. Higher debt levels
+allow for a more competitive bid while maintaining the same IRR.
+
+* Two-Stage Auction
+
+Frequently multiple parties compete for the right to acquire a target company. This is typically organized by an
+investment bank (the sell-side advisor) to maximize the price and certainty realized by the seller. In such a process,
+bidders enter into a structured auction process designed to produce a winner from a progressively narrowing field of
+interested bidders.
+
+In the first round, a large number of interested parties make initial, sealed bids.
+To draw out the key terms in addition to price, second-round bidders recieve sample sale and purchase agreements (SPAs),
+which they mark up and return to the seller on the final bid date. The winning party will typically request and be
+granted exclusivity - or enforcement of standstill provisions - to conduct confirmatory due diligence and negotiate
+the final transaction documentation.
+
+* Buyout Pricing Adjustments and Closing Mechanisms
+
+Once a winning bid has established a headline purchase price the buyer and seller negotiate the final purchase price.
+Although the broad principles are set out in a bid letter or a marked up SPA, the exact amount and composition of
+transaction proceeds are subject to a series of pricing adjustments. These adjustments require clear definitions of
+two balance sheet entries: net debt and target working capital. The starting point for defining net debt and target
+working capital is typically a company's historical financial statements.
+
+** Net Debt
+
+A company's net debt is subtracted from the headline purchase price to determine the portion of transaction proceeds
+that flow to selling equity shareholders. The main components of net debt are interest-bearing bank borrowings and
+cash. These are found on the balance sheets and are not usually negotiated.
+
+Remaining components debt-like liabilities (capital and financial leases, pension liabilities, deferred tax, taxes payable, deposits and balances between the target and its affiliates) and cash equivalents (outstanding checks, restricted cash, foreign cash, credit card payments in transit) are often subject to negotiation.
+
+Net Debt = (Interest-Bearing Liabilities + Debt-Like Liabilities) - (Cash + Cash Equivalents)
+
+** Working Capital
+
+Buyers and sellers determine a normalized working capital or base case capital required to operate the target
+at a "steady state". For deals priced on a debt-free/cash-free basis, the definition of working capital includes
+accounts receivable (net of reserves), inventory, prepaid expenses, accounts payable, and accrued liabilities.
+
+Target Working Capital = (Accounts Receivable + Inventory + Prepaid Expenses) - (Accounts Payable + Accrued Liabilities)
+
+* Closing Mechanisms
+
+The closing mechanism set out in a transaction's SPA defines the manner in which net debt and target working capital
+will be measured. The two main mechanisms used in a buyout are the locked-box mechanism and the completion accounts
+mechanism.
+
+** Locked-Box Mechanism
+
+A locked-box mechanism is a fixed-price mechanism that sets the value of net debt and working capital at a specific date (known as the locked-box date) before signing the SPA. This date is usually a recent one, between the last annual balance
+sheet date and the date of SPA signing. When this mechanism is employed, the economic risk of the target is transferred to
+the buyer as of the locked-box date, and the buyer receives all cash profits generated by the target from that date onward.
+As the seller will continue to run the target between the locked-box and closing dates, the buyer often pays an interest
+charge or daily profit rate to compensate the seller for running the target.
+
+** Completion Accounts Mechanism
+
+A completion accounts mechanism adjusts the preliminary purchase price based on the difference between a company's net debt
+and target working capital at signing and the actual balance sheet values at closing. This mechanism thus protects both
+the buyer and seller from deviation in these balance sheet items pre-closing.
+
+
+The primary difference between locked-box mechanisms and completion accounts mechanisms is the date when the economic risk
+of the target company is transferred.
+
+* Post-Closing Price Adjustments and Remedies
+
+The final purchase price determined by the closing mechanism is delivered at closing. However, sometimes there are changes in the conclusive purchase price. Two of these instances include a contingent payment making up part of the purchase price
+or a breach of contract.
+
+** Contingent Payment
+A contingent payment defers settlement of a portion of the purchase price to a later date.
+When the target company is performing well (poorly), the contingent payment will result in a higher (lower) total
+purchase price via the contingent payment mechanism.
+
+** Breach of Contract
+Post-closing monetary remedies due to a breach of contract are typically paid from the seller to the buyer and result
+from, among other things, breaches of seller representation and warranties and post-closing covenants.
+
+* Key Learning Points
+
+- The bidding price, based on an initial valuation of the business, is only the starting point in an M&A process.
+  Sellers will consider additional factors when selecting a suitable PE buyer such as the form of purchase consideration,
+  closing certainty, the operating and strategic knowhow of a buyer and the professionalism and speed with which a buyer
+  progresses through the sales process.
+
+- In many situations, multiple parties compete for the right to acquire a target company. In such cases, bidders enter
+  into a structured auction process -- the most common of which is the two-stage auction process -- designed to produce
+  a winner from a progressively narrowing field of interested bidders.
+
+- In the context of LBO transactions, it is important to understand the different bidding strategies, deal closing
+  mechanisms, and post-closing adjustments customarily employed by PE buyers.
+
+* Case #13: Going Places: The Buyout of Amadeus Global Travel Division

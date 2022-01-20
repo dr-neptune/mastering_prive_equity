@@ -1,0 +1,116 @@
+#+TITLE: Chapter 18: LP Portfolio Management
+
+As investors in the private equity asset class, limited partners (LPs) build and maintain portfolios of
+investments in a range of PE funds. As an LP's allocation to PE typically makes up only a fraction of its
+total assets under management (AUM), PE must be considered within the broader context of its investment
+mandate and overall portfolio construction.
+
+* Benefits of Investing in the PE Asset Class
+
+** Returns and Alpha
+Top quartile PE funds have performed pretty well over longer ranges of time (10, 15 years)
+
+** Correlation and Diversification
+In theory, adding a PE allocation -- and therefore exposure to the private, unlisted companies in PE funds -- to a broad portfolio will diversify an LP's source of returns and, in turn, reduce portfolio volatility and the overall risk of a large negative performance move.
+
+** Access to Emerging Economies
+It may seem that public equity is an easier way to gain diversified equity exposure compared to PE. This may be easier for developed markets, but it fails when considering emerging markets.
+
+* Challenges of Investing in the PE Asset Class
+
+** Illiquidity
+PE demands a long term commitment from its investors and a high comfort level with illiquidity; the required 10 year commitment of capital to a PE fund is necessary to execute its investment strategy, be it venture, growth, or buyout.
+
+** Cash Flow Management
+The limited liability provided to LPs through the blind pool structure of PE funds requires that investment decisions sit
+firmly with the GP only. LPs must have a ready source of capital at hand to fund capital calls made by their GPs and fulfill their obligations.
+
+** Organizational Challenges
+The relative novelty of PE compared to traditional asset classes will require new ways of meeting challenges. A new team might need to be filled out, typically from outside the org. It might take many years to see meaningful returns and even longer to be able to form an opinion on the success of the program. The long time horizon and consistency required for a
+successful PE investment program often clashes with the short stay of talent in investor organizations.
+
+* Portfolio Construction Considerations
+
+Once a positive decision is reached on starting a PE program, processes and guidelines need to be put into place to govern
+the program's portfolio construction, manager selection, and the overall decision-making process.
+
+** Target Allocation
+
+An investor's risk appetite will determine its target allocation to PE. Public and private sector pension funds on average have an allocation of 6-8% of AUM due to their regular cash flow needs and the investment restrictions associated with these plans.
+
+** Diversification
+
+The degree of diversification within a PE portfolio and specific allocation decisions depend on an LP's risk appetite, its target return for the asset class, and the resources available to build and manage a PE portfolio.
+
+** Target Return
+
+An LP's target return for its PE allocation will have a direct impact on manager selection, portfolio construction, and regional allocation.
+
+** In-house or Outsourced Teams
+LPs must decide whether to execute a PE program in house or outsource the investment function. LPs often start with an allocation of PE through a fund of funds or engage advisors to craft custom mandates to PE, then gradually build expertise to allocate directly to PE funds.
+
+Fund of funds aggregate capital from multiple investors and invest in a diversified portfolio of PE funds. They act as a single LP in a fund and may be able to negotiate fee discounts on behalf of their clients.
+
+** Investment Restrictions
+
+Institutional investors usually have strict guidelines on where, and more often, where not to invest (negative screens).
+
+* PE Fund Manager Selection
+
+We will take a closer look at the 4 main phases of the fund manager selection process
+
+** Top Down Review
+
+The investment process begins with a top-down review of the existing PE portfolio through its target PE allocations. In conjunction with a portfolio review, LPs typically assess the attractiveness of the PE fund's overall strategy within the prevailing macroeconomic environment, current market dynamics, and the competitive landscape in PE.
+
+** Screening
+LPs look into:
+- The respective track record of the fund's GP
+- The GP's investment team
+- The fund's strategy and its fit with the LP's existing portfolio
+
+** Due Diligence
+A deep dive into all aspects related to a fund's investment strategy, team, and structure.
+
+** Recommendation and Subscription
+At the conclusion of the due diligence process, an investment paper is submitted to the LP's IC outlining the risks and opportunities associated with a fund manager's offering. Funds that get the go-ahead from the IC enter the subscription process, where terms related to the LPA, side letters and other doucmentation are agreed.
+
+Investors flock towards funds raised by PE firms with historically strong performance. These funds in turn become oversubscribed and hard to access. This leads to a bifurcation among the GPs, splitting PE firms into those able to raise funds in record time and those not able to achieve a first closing.
+
+* Managing an Existing Portfolio
+
+Once established, PE portfolios require constant monitoring to maintain an LP's target allocation, manage irregular cash flows, and consolidate and assess the fund reports received from its various GPs.
+
+** Monitoring
+Monitoring is the foundation of risk management and target allocation optimization.
+An active approach to monitoring can be resource-intensive.
+
+** Liquidity Management
+The manner in which an LP manages its uncalled capital commitments will impact the return generated by its overall investment portfolio. PE funds call capital from their LPs throughout the investment period -- only if and when needed.
+While it may be tempting to actively manage idle funds to enhance net returns, such a strategy adds liquidity risk to the overall PE portfolio.
+
+** Ballooning Portfolio
+Most investors strive to maintain relatively constant gross exposure (as a percentage of AUM) to every asset class in their investment portfolio, as defined by their IC.
+In the PE context, this requires that a sizable proportion of funds returned after successful exits are promptly reinvested. New commitments can only be made to PE funds in the market -- i.e. those that are fundraising -- which, over time, will add to a slowly but surely expanding number of GP relationships that need to be managed.
+This increase in relationships can be somewhat slowed down by preferentially allocating capital to follow-on funds by existing GPs. Still, a "ballooning" or relationships is hard to avoid in the ordinary course of business, making it difficult for LPs to effectively engage an ever-expanding number of individual GPs.
+
+** Secondaries, Co-Investments, and Directs
+
+Aside from primary allocations, LPs have other options to grow their exposure to the PE asset class. They could:
+- acquire secondary stakes in mature funds to backfill vintage year exposure
+- invest in coinvestments (investing directly into portfolio company equity side by side with a GP)
+- direct investments into portfolio companies
+
+** Denominator Effect
+
+The denominator effect refers to an asset allocation problem caused by a sudden drop in the value of an LP's public equity portfolio in times of market turmoil. During market shocks, valuations of illiquid assets -- and PE in particular -- adjust more slowly, if at all. As a result, the value of an LP's overall portfolio (the denominator) drops more quickly than the value of its PE allocation, causing an increase in an LP's exposure to PE as a percentage of AUM, often significantly beyond its target allocation.
+
+* Key Learning Points
+
+- Institutional investors must take the time to understand and assess a range of characteristics (both pros and cons) of PE before allocating to the asset class
+
+- An LP's risk appetite, target returns, internal capabilities, and investment restrictions must be considered when constructing a diversified PE portfolio
+
+- Choosing the right PE funds and managing an existing portfolio within its mandate are the final (and ongoing) steps in the LP investment process
+
+* Case Study 15: Vendex KBB: First Hundred Days in Crisis

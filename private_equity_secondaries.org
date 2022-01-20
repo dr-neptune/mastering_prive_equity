@@ -1,0 +1,122 @@
+#+TITLE: Chapter 24: Private Equity Secondaries
+
+The PE secondaries market refers to the purchase and sale of existing stakes in PE investments, either limited partnership interests in funds or equity stakes in PE backed companies. Secondaries offer owners of PE positions an additional path to liquidity and added flexibility in managing a portfolio of PE investments.
+
+* Main Transaction Types
+
+The development of the PE secondaries market was a natural consequence of LPs' predominantly passive role in the PE industry.
+The LPs' ability to influence cash flows and achieve liquidity on demand was nonexistant given that all investment decisions in a traditional, closed-end PE fund are determined entirely by its general partner. Today's secondary markets allow LPs to sell their interests in fund or equity stakes in private companies prior to fund dissolution or investment exit.
+
+There are 2 main types of secondary transactions: the sale of interests in a PE fund (limited partnership secondaries), and the sale of equity stakes in a PE-backed companies (direct secondaries).
+
+* Limited Partnership Secondaries
+
+The sale of an LP stake breaks the relationship between the selling LP and the fund and transfers all rights -- mainly capital distributions -- and obligations -- mostly unfunded commitments -- to the buying party.
+
+** Sellers
+
+The performance of the fund will be priced into the transaction.
+
+*** Internal Factors
+
+Secondary sales can help shift a portfolio's exposure to preferred geographies, strategies, and vintage years without committing capital to a new fund. Secondaries can also be employed to mitigate the "denominator effect", which occurs when falling prices in listed public markets reduce overall portfolio value and cause overexposure to private market assets that revalue more gradually.
+
+*** External Factors
+
+A key driver of secondaries activity has been regulatory pressure or change that make the cost of owning stakes in alternative investments untenable.
+
+** Buyers
+
+The most active buyers of LP fund interests are specialized secondary funds and fund of funds, who have a specific mandate to acquire secondary interests. A primary investment thesis for these specialized investors is the discount to net asset value at which the interests often change hands, providing an immediate arbitrage opportunity.
+
+The acquisition of LP interests provides:
+- additional exposure to a given PE strategy, geography, or fund vintage
+- increase portfolio diversification outside of a traditional primary fund commitment
+- a way to smooth cash flows for LPs with choppy J-curve exposure given the range of fund maturities sold in secondaries markets
+- Additional avenues to access top performing fund managers and establish relationships for participation in future funds
+
+The sale of an LP interest can be combined with a commitment to invest in a GP's next fund in a transaction commonly referred to as a stapled secondary. Given the frequency of LPs' commitment to a succesfful GP's follow on fund, this can solidify the sustainability of a fund manager's business.
+
+** Pricing
+
+Prices are typically based on a fund's NAV at a given point in time, and are quoted at a discount or premium to NAV.
+The two most common valuation methods are:
+
+1. The top-down valuation method, which applies a comparable transaction multiples and/or trading multiples to arrive at the value of an LP interest
+   - a common multiple is the ratio of the price paid and fund's NAV in a given transaction
+   - Pricing can also be determined by looking at historical trading values of listed PE funds
+     - Here the multiple is the total value of the comparable listed fund - (equity market capitalization + debt) / last published NAV
+     - There is often a lack of comparable transactions
+
+2. The bottom-up valuation method, which uses a discounted cash-flow model to calculate the intrinsic value of the fund's underlying assets
+   - The discount rate is based on the gross return generated from fund cash flows that the secondary buyer expects to achieve
+   - The cash flows include:
+     - expected distributions from existing portfolio investments
+     - drawdowns for future primary and follow-on investments
+     - distributions generated from these future investments
+   - Cash flow expectations for existing portfolio companies are estimated by examining
+     - The stage of the investment
+     - its expected growth rate and investment needs
+     - exit valuation expectations
+
+* Direct Secondaries
+
+A direct secondary involves the sale of a passive equity stake or a portfolio of passive equity stakes in a PE-backed company when the lead PE investor -- typically a fund -- has not yet exited. These transactions lag significantly behind the more established LP secondary in terms of transacted value.
+
+** Sellers
+
+Sellers of direct secondary stakes include LPs, GPs, founders, company employees, and conglomerates. The sale of a direct interest in a PE-backed company provides investors with liquidity without impacting the continued management of the investment by the lead PE investor.
+
+** Buyers
+
+The leading direct secondaries buyers include traditional secondary and fund of fund investors as well as dedicated direct secondary funds that specialize in the purchase of direct interests in PE-backed companies.
+
+Direct secondaries provide buyers with immediate access to PE-backed companies, often at attractive prices.
+
+** Application
+
+Typical applications of a direct secondary include spin-outs and buy-ins.
+
+In a spin-out,t he buyer acquires a portfolio of captive assets, often resulting from changes in strategy or regulation governing activity at a corporate or financial institution. Buyers in these transactions often purchase and manage the spun-out assets in a newly formed investment vehicle, with the GP typically staying on.
+
+In a buy-in, a new GP is engaged to manage an existing portfolio of assets. A buy-in is often utilized when a corporation wishes to dispose of a portfolio of non-core assets or when a PE firm wishes to dispose of legacy or tail-end investments.
+
+** Pricing
+
+Pricing of a direct secondary transaction follows a similar process of that used to value of purchase of equity shares in a PE transaction. When a portfolio of companies is acquired, the aggregate value of each equity stake represents a common starting point for pricing. These transactions are typically executed at a price near this aggregate value, with a moderate discount as a result of buying a portfolio in a single transaction.
+
+Buyers in portfolio transactions typically conduct limited due diligence, as it is often unrealistic and expensive to assess each asset in a portfolio.
+
+* Deal Structuring
+
+There are also more tailored options for transactions depending on the LP's needs.
+
+** Structured Secondary Transactions
+
+In this type of transaction, a special purpose vehicle (SPV) acquires an underlying LP interest, a direct stake in a PE-backed company, or a portfolio of these. The "buyer" purchases exposure to a specific portion of the SPV for a specific amount, the proceeds of which are transferred to the "seller". The seller typically retains exposure to a portion of the cash flow rights and obligations or exposure to specific assets in the SPV.
+
+In a common application of a SPV transaction, a seller seeks to maintain its underlying position in existing portfolio companies, yet reduce its unfunded future commitments. In this case, a buyer will meet all future capital calls in exhange for a preferred return from the SPV that is secured against future distributions.
+
+SPV transactions are also used to securitize and sell a portfolio of underlying PE assets. Following the acquisition of PE assets by a SPV, an intermediary will structure and sell tailor-made securities -- or tranches -- providing exposure to specific cash flows or assets of the SPV to satisfy the risk appetite and other priorities of investors.
+
+** Total Return Swaps
+
+Total return swaps in the secondaries market shift the exposure of an investment in a PE fund from one party to another, in exchange for a regular cash payment. The party reducing its exposure to the PE fund (the seller) continues to meet all capital calls and receive all fund distributions, which are transfered onto the buying party. In return the buying party pays the seller a regular, fixed cash payment.
+
+A total return swap allows a selling LP to maintain its interest in the fund and the relationship with the fund's GP, while mitigating the impact of unpredictable capital calls and distributions from its investment.
+
+* Executing Secondaries Transactions | Unique Elements
+
+** GP Consent
+
+In nearly all cases, an LP reducing its exposure to a fund via the straight sale of an LP interest must receive consent from the fund's GP before an LP secondary transaction can be completed. The GP consent clause provides a GP with a degree of discretion to choose a replacement LP in its fund. As the market has matured, GPs often work closely with the selling LP and the buyers to best improve the fund's investor base.
+
+** Right of First Refusal
+
+Fund documentation may include a right of first refusal, which grants existing LPs the right to purchase an LP interest before it can be sold to another investor. Existing LPs typically must match the terms offered by external parties.
+
+* Key Learning Points
+
+- Secondary transactions allow LPs to manage their PE portfolio and thereby reduce the illiquidity constraints of the asset class
+- Two distinct transaction types stand out: LP secondaries and Direct (or synthetic) secondaries
+- The size of the secondaries market -- over $40B USD in transaction volume in 2015 -- has given LPs a chance to take control of their exposure to the asset class, to buy and sell stakes in PE funds and actively manage their portfolios.

@@ -1,0 +1,165 @@
+#+TITLE: Transaction Documentation
+
+This chapter discusses the key negotation points and the essential documentation in a PE transaction. It
+also contains a review of the documentation for debt and equity investment.
+
+* PE Transaction Documentation
+
+** Deal Sourcing
+   Non-Disclosure Agreement
+
+** Preliminary Due Diligence
+   Letter of Intent (First Round Bid)
+
+** Formal Due Diligence
+   Letter of Intent (Second Round Bid)
+
+** Negotiation & Documentation
+*** Sale and Purchase Agreement (SPA)
+
+A sale and purchase agreement (SPA) is the main contract entered into by a PE fund and the existing owners of a target company; it governs the terms and conditions of the envisioned transaction and acquisition process.
+
+Some provisions common to these agreements:
+**** Purchase and Sale
+In this clause of the SPA, a fund agrees to purchase and existing owners agree to sell either the assets - such as the rights, titles, and interests of the target company - or the equity interest in the target. It also sets out a time and location for transaction closing and a long-stop date, by which the transaction must close or parties to the SPA can effectively terminate the agreement.
+**** Representations and Warranties
+These are statements of fact and promises that underpin specific elements of the transaction set out in the SPA. A representation is a statement of fact that was influential in inducing a buyer or seller to enter into the SPA; a warranty is a promise ethat a statement of fact is true.
+
+Reps and warranties are principally used to offer protection to a buyer in case a vendor's statements of fact regarding the target business prove to be false, to allocate a portion of performance risk at the target company to the seller and to provide an opportunity for a buyer to gain additional information about the target.
+**** Covenants
+Covenants are contractual promises that require the parties in an SPA to take or refrain from specific actions before or after transaction closing, and are typically made by the seller in favor or the buyer. They may describe actions that a party is required to take (affirmative covenants) or actions a party must avoid (negative covenants). The primary purpose is to ensure that at closing the buyer finds the target in substantially the same state as at the signing of the SPA.
+**** Indemnification
+Indemnification provisions set out monetary remedies that protext a party to an SPA from losses associated with identified risks of a business. These provide both the buyer and seller with certainty as to their legal rights and responsibilities in the instance of a specific breach, removing the uncertainty of pursuing a legal claim in court or arbitration. These typically apply to breaches of seller reps and warranties or post-closing covenants related to the performance of the target company and provide monetary remedy limited to a maximum dollar amount to the buyer.
+**** Conditions Precedent (CPs)
+CPs are specific events or states of affairs that must be satisfied or waved or the transaction to proceed. The main consideration regarding CPs for the buyer and seller is to ensure that the other party does not have too much flexibility to walk away from the transaction.
+**** Material Adverse Change (MAC)
+A MAC clause provides a buyer with the right to terminate the SPA in case of a material event that impairs the value of the target company. Buyers seek to define a MAC in broad terms to maximize optionality while the seller seeks narrow terms to limit the buyer's ability to terminate the SPA
+**** Termination Right/Break Up Fee
+Termination provisions describe the circumstances that allow a party to terminate the acquisition agreement prior to closing.
+Common circumstances:
+- mutual written consent of both parties
+- a material breach of the reps and warranties
+- failure to perform a covenant
+- a legal impediment
+- failure to have met all the closing conditions by the long-stop date
+
+*** Debt Documentation
+Debt commitment letters are typically addressed to a buyout fund's acquisition vehicle by the lead arranger of a leveraged buyout (LBO)'s debt financing. These are often subject to specific closing conditions - principally negotiation of loan documents - for the envisioned loan to come into force.
+
+** Closing Period
+   Equity Documentation
+Equity commitment letters, addressed by a PE fund to its acquisition vehicle, provide a limited guarantee for the equity financing detailed in an SPA. Securing these letters is often required for the PE fund to enter into an SPA and to satisfy buyer financing reps and warranties. These typically set out specific terms and conditions that must be satisfied for the enforcement of the fund's commitment.
+
+* Buyout Debt Documentation
+
+In a LBO, a PE fund negotiates 2 main agreements with debt providers that govern the borrowers' and lenders' rights during the transaction and the period the loans remain outstanding:
+
+Loan Agreements and Intercreditor Agreements
+
+** Loan Agreements
+
+Loan (or credit) agreements are entered into between a PE fund's acquisition Special Purpose Vehicle and a debt provider for a LBO.
+
+These documents set out the terms and conditions governing the debt issuance process, economic rights of the lender, and the performance requirements of the target company following loan disbursal. The commercial intent of the main provisions of a loan agreement is set out below:
+
+*** Amount and Terms of Loan
+This section of the agreement describes specific characteristics of the loan, including, but not limited to:
+
+- The amount of capital provided by the loan
+- The loan's interest rate, usually a market rate (e.g. LIBOR) plus a spread
+
+*** Representation and Warranties
+The key function of representations and warranties in a loan agreement is to provide the lender with a mechanism to terminate the loan agreement in the event of a breach post-signing.
+
+*** Conditions Precedent (CPs)
+CPs are specific events or states of affairs that must be satisfied or waived for the transaction to proceed. In loan agreements, CPs fall into two categories: documentary CPs and event CPs.
+
+*** Conditions Subsequent
+A condition subsequent clause sets out details of outstanding conditions at closing and the date by which the borrower must satisfy them (often 90 days). In some instances, when a borrower doesn't satisfy a condition precedent in time for a drawdown, the lender may still disburse the loan if the borrower agrees to satisfy the condition by a future date.
+
+*** Covenants
+Covenants are the key monitoring mechanism following a loan's disbursement and are divided into financial and non-financial covenants.
+
+Financial covenants define certain thresholds of operating performance within which the target company must perform. Failure to do so results in a breach of contract. Common financial covenants include interest coverage and debt-to-equity ratios.
+
+Non-financial covenants can be divided into general information and business covenants, which ensure that lenders are provided the information required to monitor the target and that the target company is operated according to applicable law and commercial regulation.
+
+*** Events of Default
+Events of default in a loan include a long list of occurrences or circumstances that provide a lender with the right but not obligation to, for example, accelerate loan repayment or require immediate repayment of a loan.
+
+** Intercreditor Agreement
+Intercreditor agreements govern the various rankings and rights among debt providers in a LBO.
+This agreement principally serves to protect the rights of senior lenders by clearly defining the rights
+of each debt provider in the event of default.
+
+*** Payment Subordination
+The Payment subordination clause determines the order of claims on unsecured assets for all of a company's creditors in the event of default.
+This ensures that the claims of senior debtholders are paid in full before junior debtholders receive compensation.
+
+*** Lien Subordination
+Also referred to as security subordination.
+Lien subordination determines the order of claims on collateral for a company's secured creditors in the event of default and security enforcement. Secured lenders can be divided into first lien lenders and second lien lenders.
+
+*** Standstill Periods
+Prevents junior debtholders from taking any action to enforce their claim in the event of a default.
+Standstill periods are designed to allow senior debtholders ample opportunity to determine an optimal course of action without interference from junior debtholders
+
+*** Payment Blockage
+Restricts the borrower from making payments to junior lenders in the event of a default before claims of senior debtholders are satisfied.
+
+*** Turnover Provision
+If junior debtholders do receive compensation in the event of default before senior claims are satisfied, a turnover provision requires that these proceeds be turned over to senior creditors to satisfy their claims.
+
+*** Senior Debt Limit
+These provisions limit the amount of additional senior debt that can be issued by a borrower without the consent of
+junior debtholders. These limits protect junior debtholders and increase the likelihood that they will receive compensation
+in the event of default.
+
+* Equity Documentation for Majority and Minority Investments
+
+The articles of association (AOA) -- also referred to as the articles of incorporation, certificate of incorporation, and other names depending on the jurisdiction -- and the shareholder agreement (SHA) are the key documents governing the rights and obligations of shareholders in PE investments.
+
+Broadly speaking, *A* rticles *O* f *A* ssociation define the economic rights of different equity shareholders while
+*S* hare *H* older *A* greements define each shareholder's control and additional economic rights.
+
+** Economics
+
+The economics provisions of equity documentation in a PE-backed company deal mainly with the types of shares issued by the company and their return characteristics.
+
+*** Shareholding Structure
+Most PE-backed companies issue at least 2 types of shares, preferred shares and common shares. In a buyout, PE funds typically invest the vast majority of their capital into preferred shares, with a small portion allocated to common equity.
+For management teams, this is the opposite, with the majority if not all of their capital invested into common equity.
+
+*** Liquidation Preference
+Preferred shareholders typically hold a priority claim on the proceeds realized from a liquidity event -- including outright sale of the company, change of control or bankruptcy -- relative to common shareholders. Once the liquidation and any dividend preferences are satisfied, the residual proceeds from an exit flow to common shareholders.
+
+*** Dividend Preference
+Preferred shareholders are often entitled to a preferred return in the form of a dividend preference. Frequently, divideds awared under this clause are not paid out but rather accumulate during the holding period and are settled at exit.
+
+*** Good Leaver/Bad Leaver
+This provision determines what value is assigned to the shares of a management team member if he or she leaves the company before an exit event. This differentiates between a management team member who resigns for acceptable reasons (good leaver) and unacceptable reasons (a bad leaver).
+
+** Control
+Equity documents in both the minority and majority transactions lay out details of the board of directors and define additional control rights for shareholders and those related to managing liquidity events.
+
+*** Board of Directors
+This provision describes the structure of the board of directors and defines the voting rights of shareholders. A PE board typically consists of representatives of the PE fund, existing owners, management team members like the CEO or CFO, and independent directors.
+
+*** Board Deadlock
+A deadlock occurs when a board resolution fails to achieve a majority support. This provision sets out a mechanism to prevent such a situation from occuring.
+
+*** Share Transfer Restrictions
+Share transfer restrictions give existing shareholders the right to purchase the shares of another shareholder if he or she decides to sell. These rights enable existing shareholders of block sales of shares to investors not acceptable to the existing owners.
+
+*** Drag-along/Tag-along Provisions
+A drag-along provision provides the majority shareholder with the right to force other shareholders to sell their shares in a third-party transaction. It enables the majority shareholder to see all the shares in a company to achieve a clean break at exit, and is often a prerequisite for sale to a strategic investor.
+
+A tag-along provision provides minority shareholders with the right to sell their shares in conjunction with the majority shareholder, allowing minority shareholders to participate in a liquidity event pro rata with an exiting majority shareholder.
+
+* Key Learning Points
+
+- Transaction documentation - principally the NDA (Non-disclosure agreement), LOI (letter of intent), and SPA (sales & purchase agreement) - represents the key contracts entered into between a PE fund and a target company's owners during the investment process.
+- Debt documentation - principally credit agreements and intercreditor agreements - governs the rights and obligations of lenders and the target during the PE holding period and exit
+- Equity documentation - in particular a company's AOA and its SHA - governs the economic and control rights of shareholders during the investment period at exit.
+
+* Case Study 3: Pro-Invest Group: How to launch a private equity real estate fund

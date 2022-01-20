@@ -1,0 +1,41 @@
+#+TITLE: Growth Equity
+
+Growth equity funds occupy the space between venture and buyout investing, providing fast growing but established businesses with funds and support for a transformational leap in their development.
+
+* Growth Equity Defined
+
+Growth equity funds invest in fast-growing businesses which have moved beyond the startup stage in exchange for a minority equity stake.
+
+* Growth Equity Targets
+
+Growth equity funds invest predominantly in three types of businesses:
+- late stage venture capital backed companies
+  - They are already profitable, need capital to scale operations
+- mature small and medium sized enterprises (SMEs)
+- spinoffs from large corporations
+
+* The Growth Equity Investment Process
+
+- Deal Sourcing and Due Diligence
+  - Tough to do, GE opps often don't explicitly need investments
+- Value Creation
+  - Often value creation is bolstered by Professionalization (systems & processes, governance & reporting, succession planning, mentoring) and new initiatives (market entry, new products, cash flow optimization, acquisition and divestment)
+- Exit
+  - Seek to exit within 3 to 7 years
+  - disagreements between multiple shareholders can complicate the exit process
+
+* Minority Shareholder Rights
+
+| Challenges        | Safeguards                               |
+|-------------------+------------------------------------------|
+| Operating Control | Voting, Approval, and Information Rights |
+| Company Culture   | Management Incentives (ESOP)             |
+| Exit Timing       | Buyback Mechanism, drag-along rights     |
+
+* Key Learning Points
+
+- Growth equity funds invest in fast growing, established companies in return for a minority equity share and make a concerted effort to establish a solid partnership with all company stakeholders (especially majority owners).
+- Beyond capital, growth equity funds offer hands-on involvement with thier portfolio companies to assist with business development, professionalization, and expansion
+- Minority protection rights are crucial for growth investors, especially with regards to achieving a successful future exit
+
+* Case Study 7 | Siraj Capital - Investing in SMEs in the Middle East

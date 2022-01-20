@@ -1,0 +1,124 @@
+#+TITLE: Deal Structuring
+
+Deal structuring is a process during which private equity firms secure various forms of capital to fund a buyout
+transaction and set up a framework of investment vehicles through which the capital flows.
+
+From a fund manager's perspective, the process focuses on optimizing a portfolio company's capital structure in
+terms of timing, cost, and contractual obligations, and developing a legal structure of investment vehicles that
+solidifies the rights and interests of capital providers while minimizing tax and regulatory bottlenecks.
+
+PE funds typically structure their investments by using a series of special purpose vehicles (SPVs) to ensure the
+ranking of all stakeholders is clearly defined.
+
+* Buyout Funding Instruments | Debt and Equity
+
+Buyout investors fund the acquisition of a target through a mix of debt and equity. Debt is generally sources from
+a variety of lenders (mainly banks), and equity is contributed by the buyout fund and the management team involved.
+They often employ multiple tranches of debt and equity to align the interests, cost, and economic risk of capital
+providers in the transaction.
+
+* Debt Instruments
+
+In a LBO, buyout firms use significant amounts of debt provided by a range of parties to fund a transaction.
+
+** Senior Debt
+
+Senior debt provided by investment banks makes up the majority of leverage in a typical LBO and has a senior claim on the target company's cash flow and assets ahead of all other forms of transaction funding. It is often secured by specific assets (collateral) at the target company, strengthening senior debtholders' claims on the company in the event of a bankruptcy. Seniority, security, and covenants reduce the risk for senior debtholders and allow them to lend to the target at the lowest interest rate in the capital structure.
+
+In large buyouts, bank debt is typically provided by a consortium - a group of banks - when the required loans exceed a single lender's capacity.
+
+Senior debt typically consists of the following tranches, in order of seniority:
+
+*** Revolving Credit Facility (RCF)
+A line of bank credit predominantly used to fund a target's working capital needs.
+
+*** First Lien Term Loan:
+These make up a large portion of a LBO's acquisition financing. These are typically senior secured, providing a robust claim on company assets in the instance of a bankruptcy. LBOs are typically financed through multiple tranches of first lien term loans (e.g. term loans A, B, and C). Term loan A has the lowest interest rate and the shortest maturity and is amortized - or repaid - on an annual basis over the life of the loan. Term loans B and C have a slightly higher interest rate, slightly longer maturity, and are repaid via a single "bullet" payment at loan maturity.
+
+*** Second Lien Term Loans
+
+Used as a bridge between core, first term loans and junior debt. Often are provided by syndicate banks and other institutional debt investors. These have higher interest rates and longer maturities than first lien term loans and are repaid via a single bullet payment.
+
+** Junior Debt
+
+Junior debt consists of a range of unsecured, subordinated debt instruments and ranks second to senior debtholder claims in the event of bankruptcy. Maturities for junior debt typically extend a few years beyond senior debt maturities with bullet repayments due at maturity.
+
+Junior debt covenants are both fewer in number and are mostly structured as incurrence covenants, which are only tested (incurred) in specific situations. As a result, junior debtholders typically let senior debtholders take the lead in monitoring the operating performance of the company. To compensate for the higher risk taken, junior debt instruments are
+typically priced at significant premium to senior debt.
+
+Common forms of junior debt:
+
+*** Mezzanine Loans
+This form of junior debt is raised in the private institutional market from a single lender or a small group of lenders. Mezzanine providers include specialist mezzanine funds, PE funds, hedge funds, and institutional investors.
+
+*** High Yield Bonds
+These are marketed and sold in the public debt market. High yield bond issurance is tightly regulated (unline senior and mezzanine financing) and typically requires a rating, listing on a stock exchagne, and reporting throughout the life of
+the bond. Due to the rules and regulations governing the marketing and sale of securities to public investors, issuing high yield bonds can be a lengthy process relative to private debt placements. As a result these bonds are often used to replace bridge loans or other short-term debt after a buyout transaction has closed. These typically have lower interest rates than for mezzanine and other forms of junior debt.
+
+** Bridge Loans
+These are typically short-term, secured credit facilities that provide temporary debt capital at transaction closing while a PE fund secures longer-term financing. Bridge loans are typically secured from investment banks, but may, in some cases, be provided directly by the PE fund or other capital providers.
+
+Often a bridge loan isn't drawn up, but if it is, the company will usually try to refinance it with permanent, long-term debt as soon as possible because the interest rates of these facilities are normally higher than those of other LBO loan tranches and increase the longer the bridge loan is in place. If the borrower doesn't repay a bridge loan at the end of its term, the bridge will automatically convert into a long-term loan with an interest rate at a significant premium to market rates.
+
+** Vendor Financing
+
+This reduces the cash required to execute a transaction by rolling over or delaying full payment of transaction proceeds. This type of financing typically comes in 2 forms: vendor debt and earn-outs.
+
+- Vendor debt is provided by the target's existing owners and essentially rolls a portion of seller proceeds back into the target company. Interest payments are typically moderate to high and PIK (paid in kind)
+- An earn-out represents an agreement to pay a portion of seller proceeds at a later date. The magnitude of an earn-out is typically subject to a company's operating performance post-closing, and only strong performance will result in additional payments to the seller. These are typically employed when a vendor continues to manage the business post-closing
+
+** Shareholder Loans
+These are the most junior form of debt and are provided by equity shareholders; these are principally provided by buyout funds and, to a lesser extent, management teams. Shareholder loans typically provide interest PIK, with the cumulative interest and loan principal repaid at exit or refinancing. These are often employed to establish the seniority of equity investors and to structure management compensation plans.
+
+* Equity Instruments
+
+The equity portion of a LBO is typically underwritten by a single PE fund or a group of PE funds and company management.
+PE funds usually provide the majority of equity capital, with management teams coinvesting to align economic interests
+with the PE firm.
+
+The characteristics of the most common forms of equity are detailed below:
+
+** Preferred Shares
+Preferred shares are a senior form of equity that provides shareholders with certain preferential rights relative to common equity shareholders. Economic rights typically include liquidation preference, which provides a senior claim on residual cash flow in the event of exit or bankruptcy, and a dividend preference, which provides a cash or accumulated annual dividend payment. Control rights include special voting rights and the ability to force the 100% sale of company equity.
+
+** Common Equity
+
+This is the most junior instrument in a company's capital structure and provides a residual claim on cash flow and company assets after claims of all other capital providers are satisfied. It is the primary tool used to align interests of PE sponsors and management teams via a management incentive plan. Management team members typically own a larger porportion of common equity relative to their proportion of total equity capital invested. This "sweet equity" can provide a high return on investment if the company does well. If an investment does poorly, the management's stake is at risk of being wiped out.
+
+* Investment Structures and SPVs
+
+A typical LBO structure consists of a series of newly established Specialty Purpose Vehicles (SPVs) each funded by an individual debt or equity instrument. Capital from each SPV flows through the investment structure to a "BidCo", the legal entity that executes the acquisition of the target company from its vendor.
+
+A simple LBO:
+
+
+
+It is financed by - in order of seniority - senior debt, a shareholder loan, and common equity.
+Senior debt is secured directly by BidCo, while funding from the shareholder loan provided by the PE fund and common equity injected by the PE fund plus management flow into a separate vehicle, labeled EquityCo.
+All capital invested into EquityCo then flows into BidCo, typically through an intercompany loan, and BidCo is fully financed to execute the acquisition of the target.
+
+* Debt Considerations - Structural and Contractual Subordination
+
+A buyout needs to accomodate various stakeholders, in particular multiple debt providers; it is therefore vital
+to ensure that the subordination of claims on the target business is clearly defined and documented. Contractual
+relationships are supported by structural subordination.
+
+As in the simple structure, funding flows through the structure via intercompany loans to fund the acquisition of the target by BidCo.
+
+Claims on cash flow and assets for the loan provider to each SPV must be satisfied before cash is available to pay
+the intercompany loan to more junior SPVs. For example, the claims of the senior lenders on BidCo must be satisfied
+before cash is released to MezzCo (the SPV funded by the mezzanine loan); the claims of the mezzanine lenders must be
+paid before cash is released to PrefCo (the SPV funded by the shareholder loan), and so on. As a result, the seniority
+established in loan documentation, referred to as contractual subordination, is reinforced by employing acquisition SPVs
+in this manner.
+
+* Key Learning Points
+
+- Buyout investors use a variety of debt and equity instruments with specific characteristics to fund a LBO.
+  VC and growth equity investors typically only use equity.
+- When structuring a debt package, investors can choose from a wide range of debt instruments with different price
+  points, cash cost, and levels of flexibility, in a market that continues to innovate and expand rapidly
+- Debt and equity capital provided to fund a LBO typically flows through a series of SPVs that reinforce the
+  seniority of the capital providers' economic claims on a target's cash flow and assets via structural subordination
+
+* Case 2: Going Direct: The Case of Teachers' Private Capital

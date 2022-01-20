@@ -1,0 +1,104 @@
+#+TITLE: Chapter 14: Responsible Investment
+
+ESG = Environmental, Social, and Governance
+
+* Responsible Investment Defined
+
+It is a mandate to go beyond a narrow target of financial returns and to incorporate a commitment to do good, or at a minumum, to be a responsible guardian of the portfolio company and its environs.
+
+Along a sliding scale, the models below range from purely financial focus to pure philanthropy
+
+** Shareholder Model
+Separating investment decisions and management of a portfolio company from wider stakeholder considerations.
+It is up to the shareholders to dedicate part of their profits to wider social causes if they choose to follow
+a specific agender
+
+** Negative Screening
+"Do no harm". This mandate would require a PE fund to abstain from investment in controversial sectors,
+such as tobacco, gambling, fossil fuel production, or arms manufacturing.
+
+** Proactive ESG Management
+PE firms employing this strategy define their responsible investment mandate in a prescriptive and proactive
+manner (i.e., do some good). LPs and PE firms have started to actively and systematically manage environmental,
+social, and governance factors by establishing structured programs that integrate ESG policies and procedures
+into pre and post investment decision-making processes. PE firms will often require their investee companies
+to have adopted such policies pre-investment or include raising ESG standards as part of their improvement
+plans.
+
+** Impact Investing
+These differ from convential PE funds as their mandate adds from the start a social return component to their
+financial return target, with an upfront intention to generate change on both dimensions. At a minimum, they
+include ESG standards with specific themes pursued such as financing opportunities for the bottom of the
+pyramind (microfinance), improvement of employment and education opportunities, access to affordable healthcare
+and housing, and sustainable agriculture and clean technologies.
+
+** Venture Philanthropy
+There are approaches with a pure social mandate represented by venture philanthropy. Compared to pure philanthropy,
+venture philanthropy introduces additional levels of rigor, coordination and monitoring to increase the efficiency
+and impact of the grant-making process.
+
+* ESG in Today's PE Industry
+
+ESG management has evolved into an essential activity for GPs looking to go beyond basic regulatory demands.
+
+** LP Expectations
+
+Many LPs requirements related to ESG have been formalized in their internal guidelines and form part of their
+duties to their beneficiaries. As LP beneficiaries are often large groups of citizens (such as pension plans)
+there is strong motivation for institutional investors to improve sustainable practices and increase accountability
+on their behalf.
+
+** GP Motivation
+
+Given today's competitive fundraising environment, established PE firms are expected to have a well-developed
+approach to ESG, with a credible framework and evidence of ESG-related projects and initiatives executed
+during the holding period.
+
+** Industry Guidelines
+
+Various institutions and industry bodies have contributed to the conversation on ESG by developing frameworks
+and guidelines for best practice.
+
+* The Challenge of Measuring Impact
+
+Typically, PE boards and ESG subcommittees will identify specific ESG-related KPIs against which
+to compare a company's progress performance. Currently, environment improvements are arguably the most commonly
+valued, ranging from improved eco-efficiency to green product development.
+
+* Emerging ESG Frameworks
+
+** Risk Focus
+
+ESG risk factors are assessed mainly during the pre-inveestment process and primarily evaluate a target company's compliance with local laws and regulations. The primary goal here is to mitigate reputational and headline risk for the portfolio company and PE firm.
+
+** Program Driven
+
+PE firms actively manage ESG investment considerations through targeted initiatives. Firms implementing this framework
+typically hire an experience ESG specialist to understand their portfolio companies' needs, identify value creation opportunities, execute initiatives, and validate performance.
+
+** Integrated Approach
+
+Policies and procedures are typically integrated into existing systems and reviewed by an ESG governing body.
+
+* ESG In Emerging Markets
+
+In developed markets, explicit sets of rules of engagement with different stakeholders are in place, such as social contracts, regulations, and government fiat. In emerging markets, this socioeconomic framework typically does not exist to the same degree, leaving a company to decide on a responsible path ahead.
+
+** Environmental Impact
+Environmental considerations can be more critical in emerging markets given the fragility of local communities and the lack of government resources to combat environmental problems.
+
+** Social Impact
+
+PE firms active in emerging markets have a distinct opportunity to deliver value by managing social factors in their investments. To do so, they draw on sustainability and governance frameworks developed specifically for investment in emerging economies, notably the IFC Performance Standards on Environmental and Social Sustainability.
+
+** Governance Impact
+
+Better governance serves a purpose beyond the specific company by signaling that firms embracing transparency as well as checks and balances can succeed.
+
+* Key Learning Points
+
+- Responsible investing is an increasingly important item on today's PE agenda. Investment strategies can range from those with pure financial to those with pure social mandates; we define a range of drivers behind the strategies with blended returns
+- Different stakeholders (e.g. GPs, LPs, and industry organizations) have their own motivations to expand their investment mandate beyond financial targets
+- Tracking and measuring the impact of responsible mandates is a challenge. Currently, there is no globally accepted standard; therefore, PE boards and EDG subcommittees need to identify specific ESG-related KPIs to effectively track their companies' progress.
+
+* Case 4: Hitting the Target : Optimizing a private equity portfolio with the partners group

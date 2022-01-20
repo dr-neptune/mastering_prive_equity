@@ -1,0 +1,168 @@
+#+TITLE: Chapter 16: Fund Formation
+
+In this chapter, we touch on the structural and contractual foundations of a PE fund -- the PE limited partnership.
+
+* Setting Up a PE Fund
+
+The primary goal in fund formation is simple: structure a collection of vehicles that allows for an optimal flow of capital from LPs to the fund -- and ultimately to its portfolio companies and back to the LPs upon exit -- preferably with minimal tax impact at the fund level. The most common and effective structures allow for the flexible management of the
+fund's capital throughout the PE investment cycle and avoid double taxation on distributions of income and capital for
+LPs in the fund.
+
+* Fund Vehicles
+
+GPs have a variety of fund structures and supporting vehicles to choose from when establishing a closed-end PE fund. To optimize specific tax, regulatory, and other structuring needs of one or more LPs, multiple fund vehicles are often established to channel investments alongside a single primary fund. These include parallel funds, feeder funds, and co-investment vehicles.
+
+** Primary Fund
+
+The main vehicle to which the GP and the majority of LPs commit. The provisions of a primary fund's limited partnership agreement govern substantially all investment, divestment, and fund management activities made through any vehicle associated with it.
+
+** Parallel Fund
+
+Usually set up to accomodate the special legal, tax, regulatory, accounting or other needs of an individual LP or group of LPs participating in a fund offering. These vehicles invest and divest side by side with the primary fund in fixed proportions typically based on each vehicle's capital commitments; both funds will usually maintain the same percentage of invested-to-committed capital over the life of the fund. These are often established to accomodate, for example, foreign investors subject to taxes from an onshore vehicle, the need for opt out from LPs (for example, Sharia compliance), or when the terms of a single investor are difficult to disclose in full to other fund investors.
+
+** Feeder Fund
+
+These aggregate commitments from one or more investors and invest directly into the primary fund as an LP. They are primarily formed for tax purposes. A feeder may allow foreign investors to avoid onshore taxes. They may also be established by banks and other institutions that pool capital from multiple clients to meet the minimum check size
+required for investment in a PE fund; in this case, they are at times referred to as "platforms". Investors in a feeder
+fund are responsible for meeting capital calls and paying expenses and fees on the same terms as LPs in the primary fund.
+
+** Alternative Investment Vehicle
+
+These are structured to accomodate one or more special investments made outside of the primary fund (and/or parallel fund).
+AIVs are employed when the main fund is not the optimal vehicle for a particular investment, whether for tax, regulatory,
+or other legal reasons.
+
+** Co-Investment Vehicle
+
+These vehicles are setup by the GP to invest alongside the master and parallel funds in a portion of a single investment. The co-investment is typically provided by one or more of a fund's LPs at lower (or no) fee and carried interest terms than the primary fund; at times, capital may be drawn from an external party. The primary fund typically needs to receive its full allocation of an investment opportunity before co-investment can be sought, with the co-investment amount typically being smaller than the investment from the primary fund.
+
+* Limited Partnership Agreement
+
+A fund's LPA sets out the general terms and conditions applicable to all participants in a PE fund. It establishes the rights and responsibilities of a fund's general partner and limited partners related to fundraising, capital calls and distributions, expenses and profit sharing, fund governance and reporting, and fund termination.
+
+** Organization
+This section of the LPA sets out basic information on the fund.
+
+** Partners and Capital
+In this section of the LPA, key stakeholders and the ways in which they contribute capital to the fund are defined.
+An entity affilitated with the sponsoring PE firm will serve as a fund's GP and will typically commit from 1 to 5% of a fund's total capital.
+
+*** Capital Calls
+As soon as a fund has had its first closing, the GP may issue capital calls to LPs to make investments and cover deal expenses, pay fund fees and expenses related to establishing the fund up to a cap, and settle the general obligations and liabilities of the partnership. The capital called by a fund is referred to a contributed capital.
+
+*** Subsequent Closigns
+GPs may at their discretion admit additional LPs into a fund via subsequent closings within a specific time period -- typically 9 to 18 months -- following the first closing. LPs that are admitted post-first closing will typically participate in fund investments made prior to their admittance and are required to pay all fund fees and expenses as if they had committed on the first closing date.
+
+*** LP Limited Liability
+LPs' liability in a fund is limited to their capital commitment.
+
+* Distributions Post-Exit and Carried Interest
+
+Distributions to LPs and GPs from a limited partnership consist of current income generated by fund investments and proceeds realized from the sale of fund investments, net of outstanding and reserved partnership expenses and obligations.
+
+** Distribution Waterfall
+
+The order of priority and timing of distributions made to a fund's LPs and its GP are set out in an LPA. Priority is typically defined by a waterfall consisting of 4 steps:
+
+1. Return of LP Contributed Capital
+   Distribution of capital until each LP has received 100% of its aggregate contributed capital for investment,
+   fees, and fund expenses.
+
+2. Hurdle Rate
+   Distribution of capital to each LP until a hurdle rate - a preferred return typically in the range of 8-10% per annum -
+   on contributed capital has been achieved
+
+3. GP Catch-Up
+   Distribution of capital until the GP has received carried interest equal to 20% of the distributions made to fund LPs
+   in step 2 and to the GP in step 3
+
+4. 80/20 Split
+   Distribution of remaining capital in the ratio of 80% to fund LPs and 20% to the GP
+
+** Carried Interest
+
+PE funds employ 2 common methodologies that determine when a GP is entitled to carried interest:
+- all capital first carry (European style waterfall)
+  A GP is entitled to carried interest only after all LP capital contributions made to the fund have been returned and
+  a hurdle rate on all contributed capital has been achieved.
+
+- deal-by-deal carry with loss carry-forward (American style waterfall)
+  A GP is entitled to carried interest following the sale of each investment in a fund, after LPs' capital contributed
+  have been returned and the hurdle rate for that investment and all previously exited investments has been achieved.
+
+** Clawback
+
+If, at the end of a fund's term, a GP has received carried interest in excess of the agreed share of fund-level profits (usually 20% of net profits) or has received carry without the LPs realizing their hurdle rate, a clawback provision is
+triggered that allows LPs to reclaim any overdistribution and align the share of fund profits with the terms set out in the LPA. These provisions are most common in the american style waterfall.
+
+* Rights and Duties of the GP
+
+A PE fund's GP is solely responsible for operating, managing, administering, and controlling the affairs of a PE limited parnership, notably all decision making related to investing and divesting the fund's capital.
+
+** Key Person Clause
+
+The LPA will clearly define the key personnel or key persons -- typically senior partners -- responsible for the fund's activities.
+
+** Affiliated Funds
+
+LPAs will clearly lay out any restrictions of investment activities for the fund's GP and its affiliates.
+Provisions typically limit the GP or its affiliates from raising a follow-on fund during the fund's investment
+period or until a certain portion of fund commitments have been invested.
+
+** Management, Portfolio, and Other Fees
+
+A fund's LPA typically includes a provision that requires the fund to enter into an investment advisory agreement
+with a third party investment advisor, typically an affiliate of the GP.
+
+** Fund-Level Fees
+
+A fund's GP and investment advisor incur significant expenses in the setup and throughput of a PE fund. LPAs set out a mechanism for a GP to recoup the organizational expenses incurred in establishing a fund from its LPs through an initial capital call follow an LP's subscription to the fund.
+
+** Indemnification
+
+This clause protects or limits the liability of individuals involved in the fund. LPAs include clauses that remove the liability for a fund's GP and its investment advisor - as well as their directors, officers, partners, members, etc - for any action or inaction made in good faith that results in a liability, claim, cost, or expense against the fund.
+
+* Other Provisions
+
+** LP Advisory Committee
+
+An LPAC is formed to advise the GP on select issues over the course of a PE fund's term. LPAC members are nominated by the GP and consist primarily of the largest LPs in the fund. The activities of an LPAC should be limited strictly to review of fund matters to preserve the limited liability of the LP with which a LPAC member is associated.
+
+** Transferability of Fund Interests
+
+The LPA sets out specific guidelines and circumstances under which a GPs or LPs interests in a fund may be transferred to a different party.
+
+*** GP Interests
+
+The voluntary withdrawal or forced removal of a GP from a fund is typically subject to a supermajority of votes from fund LPs.
+
+*** LP Interests
+LPs are typically not permitted to transfer their interest in a fund without the express consent of its GP. Other LPs in a fund may have a right-of-first-offer, which requires the LP transferring the interest to first field offers from existing LPs before seeking an external buyer with a superior offer.
+
+** Dissolution, Liquidation, and Termination of the Fund
+
+LPAs typically lay out a specific process for winding down a fund. An LPA will typically define specific events that will cause a PE fund to dissolve, including (as example):
+
+- the sale of all fund investments
+- a supermajority vote by fund LPs
+- the bankruptcy of the GP
+
+** Reporting
+
+LPAs typically set out specific guidelines under which a GP must report a fund's activity to each of its LPs. GPs issue formal reports on a quarterly basis and an annual report at financial year-end that includes a fund's net asset value (NAV), cash or in-kind distributions, and the amount of management fees due.
+
+* Side Letters
+
+Side letters are contractual agreements that alter the terms of individual investors' participation in a PE fund without impacting the LPA and other governing documents. These are widely used during the fundraising process to provide preferential rights for large or cornerstone investors in a fund or to cater to the specific needs of a LP without renegotiating a fund's LPA.
+
+* Key Learning Points
+
+- PE funds are usually set up as closed-end limited partnerships to facilitate the investment and divestment of capital in the fund's mandated jurisdiction.
+
+- When setting up the legal foundations of a PE fund, GPs will carefully consider the requirements of their LPs with regards to tax issues. Feeder funds, parallel funds, and co-investment vehicles may be setup to accomodate different classes of investors.
+
+- The LPA sets out the terms and conditions applicable to all parties involved in a fund and defines their rights and responsibilities
+
+- In particular, the LPA clearly defines the rules related to distributions, carried interest, fee structure, the rights and duties of the GP and the process to terminate and dissolve the fund
+
+* Case Study #18: Private Equity in Frontier Markets: Creating a Fund in Georgia

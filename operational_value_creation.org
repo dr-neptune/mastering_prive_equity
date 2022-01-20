@@ -1,0 +1,78 @@
+#+TITLE: Chapter 13: Operational Value Creation
+
+This chapter describes the levers used by management to execute in line with a portfolio company's business plan and implement operational improvements successfully.
+
+* The Value Creation Roadmap
+
+Usually they focus on just a few things, and seek low hanging fruit for the 100 day plan
+
+* Levers for Operational Value Creation
+
+** Sales Growth
+New market entry, new product introduction, and improving sales force effectiveness are the main initiatives employed to drive sales growth. Since these take time to pay off, they are introduced early on in the holding period.
+
+** Gross Margin Improvement
+PE-backed companies drive margin improvement through a mix of improved sales and cost savings. Price increases, supply chain and distribution optimization, reduced procurement costs, and improved capacity utilization are among the primary initiatives employed to improve margins.
+
+** Overhead Reduction
+PE-backed companies focus on reducing general and administrative expenses. They tend to outsource non-core functions, while focusing research and product development efforts on products with the highest (near-term) commercial potential.
+
+** Capital Efficiency
+PE investors optimize the use of short and long-term capital, helping the client release cash from operations. Short-term capital management focuses on the optimization and permanent release of cash from working capital through inventory reduction and improved payment terms with customers and suppliers. Fixed asset optimization revolves around ensuring that capital expenditure delivers value within the PE holding period and identifying assets to be shut down or sold to release cash.
+
+** Shared Services
+PE firms can drive profitability improvements across fund portfolios by introducing shared services and by leveraging the combined negotiating power of their portfolio companies. The benefits of shared services are usually realized through joint procurement of insurance and outsourcing of common back-office and business services.
+
+* Resources for Operational Value Creation
+
+Management teams are ultimately responsible for all aspects of execution and the delivery of the desired results. Given the high demands on PE-backed management teams, they may at times lack the bandwidth or change management expertise to develop and optimally execute these plans on their own.
+
+As a result, PE-backed companies draw on four primary resources:
+- executive mentors    (external resources, management advisory)
+- operating partners   (internal resources, management advisory)
+- consultants          (external resources, full-service value creation)
+- operating teams      (internal resources, full-service value creation)
+
+** Management Advisory
+
+PE-backed companies engage seasoned corporate executives to advice their management teams. They come with
+many years of experience and credibility and their networks can open doors, accelerate decisions, and assist
+with regulatory approvals.
+
+** Executive Mentors
+
+Mentors typically work with one portfolio company at a time, often on a part time basis. These mentors are
+usually incentivized through equity stakes in the business in an arrangement similar to management comp plans
+
+** Operating Partners
+
+Some PE firms have full-time operating partners who work next to the deal team and are on hand to advice management
+on value creation. Operating partners often engage with a number of management teams at the same time and provide a
+direct link to the PE firm.
+
+* Full Service Value Creation
+
+** Consultants
+
+A team of consultants may complement a PE firm's operational team or other in-house resources.
+
+** Operating Teams
+
+Operating teams are employed directly by PE firms to engage in operational value creation and to manage
+the fund's portfolio company investments. Operating partners lead these teams and are complemented by a
+supporting cast often with consulting backgrounds.
+
+* Measuring Operational Value Creation
+
+Identifying appropriate levers, devising suitable plans, and deploying resources in a timely fashion are vital steps for driving operational value creation.
+
+* Key Learning Points
+
+- Achieving operational improvements in portfolio companies has become a major differentiator in PE
+- Tools to drive those improvements are no different from those used in any other company, but PE-owned firms
+  go beyond the mere identification of the right levers; they excel at execution through rigorous focus
+- PE firms support their portfolio companies and management through operating partners, mentors, consultants,
+  and specific operating teams
+- Models are emerging to measure the value created by PE during the holding period
+
+* Case Study #6: Adara Venture Partners - Building a Venture Capital Firm

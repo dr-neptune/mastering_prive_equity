@@ -1,0 +1,94 @@
+#+TITLE: Chapter 21: LP Direct Investment
+
+This chapter will start with an overview of the different ways in which LPs can execute a direct investment mandate, ranging from passive co-investing to direct investing. The focus will be on co-investing, insofar as it maintains the traditional LP role.
+
+* Going Direct | Ways to Market
+
+LPs have 2 main avenues to deploy capital into PE outside the traditional closed end fund model: direct investing, and co-investing as passive or activate participants.
+
+** Direct Investing
+
+When an LP spends a significant amount of its financial firepower on direct investments, it transforms itself into a quasi-GP -- at least for this part of its operations. Accordingly, it requires the LP to replicate an investment structure in line with a standalone PE firm.
+
+** Co-investing
+
+Instead of attempting direct deals, a large number of LPs have opted to undertake co-investments on a regular basis. For a typical co-investment, a PE firm approaches one or more investors with an opportunity to invest side by side with the main fund in a single target company.
+
+*** Passive Coinvesting
+
+The dominant form of coinvesting. The GP reaches out to its investors once a deal has progressed to an advanced stage, oftentimes upon reaching exclusivity in an auction process or even post-signing of the transaction. The LP is given a deadline to decide and information on the deal by the GP.
+
+*** Active Coinvestment
+
+The LP is invited early on to join forces with a PE firm. In some cases, the LP may even lead or originate a transaction and invite a PE firm for its execution or operating skills.
+
+* Attractions of Co-investing
+
+** Higher Net Returns Due to Lower Fees
+
+Historically, LPs have paid no fees on coinvestments. Yet, with the number of coinvestments rapidly increasing in recent years, some sort of compensation is often used to entice GPs into sharing deal flow or to stand out from other LPs.
+
+** Deal Selection
+
+This allows LPs to have a more hands on approach to the funds with the fund-pool. This is in contrast to the blind-pool model of PE investing, whereby once capital is committed, the LPs have limited, if any, influence on the type of investments the GP undertakes.
+
+** Potential to Fine-Tune Portfolio Diversification
+
+Coinestments can round out a portfolio by adding exposure to a certain geography, market, industry sector, investment strategy, or vintage year.
+
+** Ability to Smooth-Out the J-Curve Effect
+
+LPs can help accelerate the pace at which capital is deployed and individual coinvestments have a shorter holding period than a fund, leading to earlier realizations.
+
+** Complementing an LP's Primary Fund Program
+
+Coinvestments allow a LP to conduct due diligence on GPs in a live deal situation, especially prior to committing to a new fund.
+
+* Risks of Coinvesting
+
+** Selection Issues
+
+When LPs choose in which deals to co-invest, they typically suffer from 2 distinct risks: adverse selection by GPs and selection problems by LPs
+
+*** GP Selection
+There might be an incentive to provide the inferior deals to LPs, but this is unlikely because they need those relationships.
+
+Investment opportunities for coinvestment tend to be larger on average, as these are the deals with the biggest need for co-investments.
+
+*** LP Selection
+
+LPs introduce biases into the selection process.
+
+** Positioning
+
+Positioning is getting the deal in an increasingly crowded coinvestment space with more LPs competing for the coinvestment offer. LPs must broaden their pipeline to see more coinvestment opportunities, and after identifying their desired co-investment deals, the LP needs to receive an allocation in these opportunities.
+
+* Implementation Challenges
+
+** Resource Intensity
+
+An active coinvestment program requires investments in a transaction team, legal support, and portfolio management.
+
+** Attracting Talent
+
+Attracting good people with GP skillsets to LP organizations is difficult due to generally less generous compensation structures, the often-limited scope of the program, and the risk of political interference.
+
+** Governance Structure
+
+Setting up an effective governance structure that clearly stipulates who the ultimate decision-makers are is a first step, followed by clarity on who manages the deal-specific risk.
+
+** Conflicts with Organizational Culture
+
+A well designed coinvestment program needs to carefully balance its specific needs with that of the overall organization in terms of compensation scheme, risk and contribution measurement, and decision-making.
+
+* Going Direct | Institutional Investors Only?
+
+Direct investing magnifies both the attractions and risks of co-investing. It will also be quite cumbersome to the LP and fraught with unwanted side-effects.
+
+* Key Learning Points
+- Direct and co-investment strategies are recent trends among institutional investors
+- Attractions of low fees and closer involvement with investments need to be balanced with the risks of starting a co-investment program
+- Popular co-investors are reliable, make decisions quickly, and add value to the overall investment process
+- Data beyond anecdotal evidence is still lacking to prove that co-investment is the way forward for all LPs
+
+* Case Study #2: Going Direct: The Case of Teachers' Private Capital

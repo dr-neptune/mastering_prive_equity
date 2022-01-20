@@ -1,0 +1,48 @@
+#+TITLE: Chapter 12: Securing Management Teams
+
+One of private equity's secrets to success is the manner in which the firms work with management teams at their portfolio companies. The goal is to optimize decision-making and provide clear economic incentives to drive above-average investment returns.
+
+For the executive, managing a PE-controlled portfolio company brings a unique set of opportunities and challenges:
+- PE owners provide management teams with a degree of freedom and generous compensation packages unmatched by most publicly held corporations or family-owned businesses
+- PE investors expect results in the short-term and those with control will not hesitate to replace individual managers or executive teams at struggling companies
+
+This chapter explores the relationship between PE professionals and management teams in a buyout from both the investor's and management's perspective.
+
+* Working with Management: PE's Perspective
+
+The board of a PE-controlled company sets the tone and the high-level strategy at the portfolio firm; ultimately, however, the management team is responsible for its execution translating it into a clear day-to-day plan.
+
+Given the management's focal role, PE firms spend a significant amount of time and resources assessing managers, incentivizing them, and when necessary, bringing in new managers to complement or replace an existing team.
+
+** Assessment and Appraisal
+PE partners observe management in action and form an opinion about their ability to implement and execute a company's strategic plan. They ask questions like "is this the right team going forward?" and "Is the type of senior management needed post-investment different from the team needed pre-investment?"
+
+** Monitoring
+Once an investment is made, PE owners work with mgmt to put in place appropriate governance and monitoring processes.
+In addition to formal channels, mgmt team members and PE owners regularly engage on an informal basis to test ideas and maintain open lines of communication.
+
+** Incentives
+PE owners implement management compensation plans to align their economic interests with that of senior managers. Through stock options or "sweetened equity", management teams have the opportunity to achieve a return several multiples of that realized by the PE fund in a successful investment.
+
+** Changing Management Teams
+PE owners carefully select and monitor the management teams in their portfolio companies and will make changes early on if and when needed. Some studies cite a replacement rate of top management for buyouts in excess of 50%.
+
+* Working with PE Owners: Manager's Perspective
+Senior executives transitioning to a PE-backed portfolio company will see drastic changes in expectations:
+while a conservative 3% annual growth target may have been sufficient for a steady-state publibly listed company,
+they may not be driving international expansion with a target to double the profit of the business within the
+investment period of 3 to 4 years.
+
+* Management Compensation Plans in Buyouts
+The compensation plans are typically made to senior executives only -- meaning the top 2 layers in the management team -- and up to 20% of a company's common equity is often set aside for them.
+
+The opportunity to participate comes at a price, as senior managers must personally coinvest alongside the PE fund to secure their equity interests and show their commitment to the company (i.e. demonstrate they have skin in the game).
+
+To determine the size of management's co-investment, several methods are used, including salary multiples, reinvesting a portion of a manager's gain realized from a prior transaction, or a certain percentage of a manager's personal wealth.
+
+* Key Learning Points
+- Working closely with a motivated management team is one of the drivers of success in PE investing
+- Managers working with PE-controlled boards must adjust their expectations and adapt to fast-paced environment and a sophisticated new owner
+- Management compensation plans are key in creating the right incentive structures in PE-backed companies
+
+* Case #8: Private Equity in Emerging Markets: Can Operating Advantage Boost Value in Exits?

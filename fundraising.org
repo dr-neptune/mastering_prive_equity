@@ -1,0 +1,54 @@
+#+TITLE: Chapter 17: Fundraising
+
+Fundraising is the first stage of the PE fund lifecycle: no money, no deals.
+This chapter describes the standard processes involved in fundraising and explains
+the main documents used throughout.
+
+* The GP Fundraising Process
+
+If the fund is a first time fund, the PE firm must develop a clear and differentiated investment strategy and assembles a team with the expertise to execute its stated strategy before approaching their first investors.
+
+If the fund is well-established, fundraising will start with those LPs who have participated in prior funds.
+
+** Pre-Marketing
+
+Fundraising is an ongoing process, or rather, it is something that is always happening. Relationship and trust building with LPs is always going on, which seeds fundraising down the road.
+
+During the pre-marketing stage (when activities ramp up in preparation for the next fundraising round) PE firms engage with investors via 1x1 meetings and road shows to determine their overall interest in the strategy and establish trust.
+
+Investors satisfied with the DD of the PE firm will request the proposed fund's governing documents, most commonly a limited partnership agreement (LPA). Most investors will ask for changes or additions to the proposed LPA and subscription agreements before comitting capital.
+
+** Fund Closings
+
+A PE fund's GP secures capital commitments from investors through a series of closings held over a period of 6 to 18 months. At each closing, a fund's LPs will sign subscription agreements and LPAs, and the GP may begin drawing down capital for investment and fund-level fees.
+
+A fund's first closing represents a significant percentage of the PE firm's fundraising target. A GP will only hold a first closing when sufficient capital commitments have been secured to execute its investment strategy.
+
+* Fundraising Documentation
+
+PE firms use various documents throughout the fundraising process.
+
+** Pitch Book
+
+Pitch books provide investors with an overview of the fund's strategy, its target return, the risks involved, the fund's historic performance, its investment process, the investment team supporting the fund and their individual track record, as well as key commercial aspects of the fund.
+
+** Term Sheet
+
+Term sheets provide detailed information on the key commercial and legal aspects of a fund offering.
+
+** Private Placement Memorandum
+
+a PPM expands upon the elements highlighted in a pitchbook and term sheet to provide a robust overview of the fund offering and the PE firm sponsoring the fund. One of the most critical sections of the PPM is the team's track record.
+
+* The Fundraising Roadmap
+
+The time and complexity involved in raising a PE fund varies; established PE firms may raise multibillion dollar funds in a matter of months, while fundraising for first time funds may take years and not succeed.
+
+* Key Learning Points
+
+- Fundraising and the speed at which it can be executed is very much a measure of a PE firm's success. It is also seen as a gauge for the overall industry's wellbeing and performance
+- Once the team (GP) and the overall strategy have been defined, raising a new fund starts with establishing its target size, a clear marketing plan, and a consideration of the LPs to be approached
+- Fundraising documentation includes pitch books, term sheets, and PPMs; at times placement agents are engaged to assist.
+- The process of raising a fund differs for first-time fund managers and their more established peers
+
+* Case Study 14: Crisis at the Mill: Weaving an Indian Turnaround

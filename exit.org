@@ -1,0 +1,99 @@
+#+TITLE: Chapter 15: Exit
+
+A PE firm's ability to achieve timely and profitable exits reliably across multiple funds is a key measure of success applied by financial market players.
+
+* Exit Considerations
+
+The PE fund management model: raise closed-end funds from external institutional investors with the mandate to invest in private companaies, hold for a limited time period, and, upon successful sale, return capital to investors.
+
+** Exit considerations early in the fund's life
+Successful exits early in a fund's life are essential when raising follow-on funds; returning cash earlier than expected to the LPs helps them justify the decision to re-up in the next-generation fund. Exiting quickly allows the the investor to lock in an IRR, but it can also leave money on the table.
+
+** Exit considerations later in the fund's life
+During the second half of a fund's term, the PE model produces an inventive for fund managers to delay exits to maximize money multiples and thereby carry, potentially at the expense of the fund's LPs who are looking for earlier returns.
+
+* Preparation for Sale - Exit Shaping
+
+** Deal Sourcing, Due Diligence, and Execution
+
+The path to exit (and its likelihood) is an important factor during the investment committee's initial deliberations
+of a potential target company. Portfolio companies should come with a range of possible exit avenues, the final of which will come at a later stage.
+
+** Managing Portfolio Companies
+
+While monitoring company performance versus its business plan, special consideration is paid to the potential impact of value accretive projects on a company's value at exit (i.e. how much recurring profit will the project deliver around exit time, what multiple can be assumed for this profit stream, and how does this compare to the cost of the porject and any alternative usage of capital?)
+
+** Exit Preparation
+
+Once the timing of an exit is selected, PE funds must prepare their funds' portfolio companies for sale.
+
+To facilitate a sales process, a portfolio company may commission vendor due diligence (VDD) on the financial, legal, and - less frequently - the commercial standing of the bidding company. A related concept is staple financing, in which a bank prearranges financing for the acquisition and makes it available to any of the bidders involved in the sales process. Lastly, PE firms might hire a sell-side advisor (usually an investment bank) to manage the sales process.
+
+* Exit Paths
+
+The three most prevalent exit paths for buyouts are:
+- sale to a strategic
+- sale to a PE fund
+- IPO
+- as a partial realization only, dividend recapitalization
+
+** Sale to a Third Party
+
+The most common exit path -- sale to a third-party investor. The advantages and disadvantages of an exit involving a strategic buyer may differ significantly from one involving a PE buyer.
+
+*** Strategic Buyers
+
+Strategic investors' operations and expertise in an industry will inform their approach in a sales porcess. The perceived synergies between their existing operations and the business to be acquired often entice "strategics" to propose a higher valuation than financial investors.
+
+*** Prive Equity Buyers
+
+PE funds regularly acquire stakes via secondary and tertiary transactions from other PE investors.
+As experienced buyers with capital to deploy for a predefined investment period, they offer a higher degree
+of certainy of closing, as well as the ability to execute faster than strategic investors.
+Financial advisors typically require extensive due diligence to become familiar with a company and its sector, are hard negotiators, and are often more price sensitive.
+
+** Initial Public Offering
+
+An IPO allows a PE investor to exit from its ownership stake in a portfolio company via the registration and sale of its shares on a stock exchange. A public offering will rarely allow the PE fund to divest fully from the portfolio firm; rather, proceeds from the initial share offering will allow only for a partial exit, as a portion of IPO proceeds is often used to fund the business itself or repay debt from the LBO.
+
+*** Advantanges
+
+IPOs have historically provided the highest returns relative to other exit strategies for PE-backed companies.
+In addition, the retained ownership allows PE investors to benefit from future appreciation of the business and
+the liquidity and daily price discovery of a listed company allows them to optimize the timing of follow-on offerings.
+
+*** Disadvantages
+
+Failure at any stage in the listing process can adversely affect the credibility of both the company and the PE firm,
+tainting subsequent exit attempts. IPOs are expensive relative to other exit strategies. Companies are typically priced
+at a discount to encourage investor uptake.
+
+** Dividend Recapitalization
+
+A dividend recapitalization allows a PE investor to extract cash from a company and reduce its capital at risk without affecting the company's ownership structure. Recapitalizations are typically funded either from cash on hand in the
+portfolio company ("non-leveraged dividend recapitalizations") or by releveraging the balance sheet through issuing
+new debt securities ("leveraged dividend recapitalizations"). A leveraged recapitalization is often employed when a
+company's debt-servicing capacity has improved thanks to strong operational performance, or when credit market conditions
+are more favorable than at the time of the initial buyout transaction.
+
+*** Advantages
+
+It reduces or even eliminates a fund's downside risk in a portfolio investment through the repayment of a portion or
+all of a fund's invested capital, providing a free upside "option" from its remaining equity stake. With no dilution or
+new shareholders, buyout investors maintain control of their investment (the board remains unchanged).
+
+*** Disadvantages
+
+A dividend recapitalization only provides a partial exit for investors. There is no independent company valuation by an
+external investor providing impartial input for mark-to-market pricing.
+
+* Key Learning Points
+
+- Exits in PE are crucial; they validate the GP's investment strategy and prove its value add during the holding period
+- Exit Shaping -- the process to prepare the portfolio company for a sale or IPO - is a focal point for PE investors,
+  starting at due diligence and extending throughout the holding period
+- PE firms look for optionality in exits: they consider multiple avenues to sell their stake in the future
+- The three main exit avenues from a control investment are sale to a strategic or PE investor, an IPO,
+  or a dividend recapitalization.
+
+* Case #9: Slalom to the Finish: Carlyle's Exit from Montcler

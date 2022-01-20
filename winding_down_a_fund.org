@@ -1,0 +1,120 @@
+#+TITLE: Chapter 20: Winding Down a Fund
+
+In principle, a PE fund should be terimated 10-12 years after the final closing of the vehicle. Once that happens, its GP and LPs have no further legal obligations towards the fund. As of the writing of the book, the actual time length is estimated to be 15 years.
+
+* Liquidating a PE Fund
+
+The legal process for winding down a PE fund structured as a limited partnership takes place in 3 main steps:
+dissolution, liquidation, and termination.
+
+** Dissolution
+
+A dissolution event triggers a process that ultimately results in the end of a partnership and the GP's and LPs' obligations to a fund. They typically include the expiration of a fund's predefined term, the disposal of all fund investments following the termination of the investment period, a supermajority vote of the LPs, a key person event, and a GP bankruptcy. As soon as one of these events occurs, the dissolution of the fund is effective.
+
+** Liquidation
+
+Once a dissolution event has occurred, the winding down and liquidation of any remaining fund assets must begin.
+The GP is typically in charge of liquidating the fund's remaining assets within a short, predetermined period of time.
+
+** Termination
+
+After liquidating any remaining assets held by a fund, the partnership can be terminated. To effect termination, a certificate of cancellation is drafted and lodged with the jurisdiction in which the fund's certificate of limited partnership was originally filed; at that point, the fund ceases to exist and has no legal persona.
+
+* End of Fund Life Options
+
+A fund approaching the end of its life with unrealized assets that are unlikely to be liquidated in time and at acceptable terms is of serious concern to LPs. Such funds contribute to ballooning portfolios and take up LPs time and resources for monitoring while typically contributing comparbly little in terms of incremental return.
+
+** Steady State Options
+
+If the interests of LPs and the GP remain aligned and the performance of the fund is positive, a range of standard options are available to overcome the end-of-life situation. The most common will be to extend the term of the fund, providing the GP additional time to generate value within a portfolio company and exit without running the risk of being perceived of as a distressed seller.
+
+In rank from most trust and best performance to least trust and deteriorating performance:
+
+*** Extension of Term and Adjustment of Fund Terms
+
+The term of a PE fund can typically be extended beyond the targeted 10 years by 2 one-year periods, either at the discretion of a fund's GP or by vote of its LP advisory committee.
+
+*** In-kind Distributions
+
+In this scenario, a GP will make in-kind distributions of a fund assets in the form of marketable securities, typically publicly listed shares resulting from a portfolio company's initiala public offering.
+
+*** Liquidating Trust
+
+Unrealized fund assets are transferred into a liquidating trust, a newly established entity, with the LPs of the fund as beneficiaries. This type of trust allows a GP to create a clean break from the fund and avoid playing a significant role in the liquidation process.
+
+*** Secondary Sale of Portfolio
+
+GPs can also sell a fund's entire tail-end portfolio on the secondary market. These transactions are a form of direct secondaries and involve the purchase of equity stakes in a fund's underlying portfolio companies.
+
+** Distressed Options
+
+The alignment of interests of a fund's GP and LPs may break down at the end of its term. When LPs' trust in the GP erodes, more extreme measures may be needed to address the situation.
+
+*** Fund Restructuring
+
+A fund is usually restructured with the help of secondary investors, who provide an exit option for LPs by acquiring their interests in the fund. There are several ways for a fund to execute a restructuring, starting with the straight replacement of current LPs through a tender offer. In such a case, secondary buyers will offer to purchase the fund interests of existing investors and each LP can choose to sell out or remain in the fund. The original fund remains in place and the buyers become the fund's new LPs.
+
+An alternative avenue is the rollover of the assets into a new fund where the unrealized assets of the fund are sold to or merged with a new fund set up by the secondary buyers and the GP. The LPsa re given the option to either cash out or roll their interests over into the new vehicle.
+
+*** Sale of the GP
+
+LPs can (strongly) encourage the GP to reach an agreement with another established GP to merge operations and hand over control of the existing fund. This is done in the hope of stablizing the investment team, mitigating the risk of a conflict of interest arising in the management of the existing portfolio companies, and increasing the investment team's ability to raise a new fund.
+
+*** Removal of the GP
+
+LPs may terminate the GP's mandate to mange a fund at any time (no-fault clause), subject to the payment of a pre-agreed penality often equal to 18 to 24 months of the management fee. This option is rarely pursured, since removing a fund's GP is not only expensive but adds additional risks to an already precarious situation compared to maintaining the status quo.
+
+* Zombie Funds
+
+Zombie funds are PE funds managed by a GP that is unable to raise a follow-on fund.
+Common reasons for the failure to raise a successor fund are poor performance, significant changes in the investment team combined with an unclear succession plan and, overall, the LPs' loss of faith in the GP.
+
+As soon as the probability of receiving carried interest from a going-concern fund is diminished --and fees from a future fund are unlikely to materialize -- GPs' single remaining income stream will come from current management or monitoring fees. As a result, these GPs are incentivized to delay the sale of a fund's remaining assets to receive some fee income, as opposed to working towards a timely exit. This will surely harm a GP's reputation.
+
+A zombie fund will lack resources to optimally execute the fund's mandate, and people will jump ship from the GP as a result.
+
+* LP Perspective
+
+A zombie fund presents challenging circumstances for its LPs. In the best case, the GP is unable to maximize the value of fund assets. In the worst case, the GP mulks the fund and delays the sale of its assets.
+
+LPs can proactively take steps to mitigate the risk of becoming involved in a zombie fund. Specific measures include reviewing the team composition, professional past, fund structure, and the LPA during fund due diligence, and strengthening portfolio monitoring processes to identify risks at GPs early during the holding period.
+
+** Review Fund Structure and LPA
+
+The main source of conflict between LPs and GPs is the link between a fund's invested capital and its management fees after the investment period has expired. There are several ways to mitigate this issue when drafting a fund's LPA:
+
+- Adjust the fund's fee structure so that the management fee will be reduced by a fixed amount at the end of the investment period.
+- Reduce the threshold and penalty for the GP's removal to increase the bargaining power of LPs
+- Remove the customary 1 year fund extension at the sole discretion of the GP
+- Review the key (wo)man clause. Removing the ability of GPs to replace professionals ensures that funds will be managed by the same team originally backed by the LPs.
+
+** Strengthen monitoring to identify risks at GPs early
+Some lead time will allow the LP to work on a solution proactively
+
+** Back managers with multiple funds
+Zombie funds usually materialize only in the instances of stand-alone funds, i.e., when GPs manage a single fund rather than a family of funds across geographies and investment strategies.
+
+* GP Perspective
+
+A GP caught in a zombie fund situation will be hampered by a lack of resources, an increasingly demotivated team, and an increasingly acrimonious relationship with the investors.
+
+The GP may still be able to raise a new fund by focusing on:
+
+** Trust
+Maintain professional conduct and transparency and don't act against the LPs interests for short-term, opportunistic gain
+
+** Performance
+The team must deliver strong performance for the remaining portfolio companies in a zombie fund.
+
+** Equity
+A GP must clearly identify its value proposition to LPs. This means retaining a team with skills and experience relevant to the GP's investment strategy and achieving strong exits on deals that are most similar to the strategy of potential follow-on funds.
+
+* Key Learning Points
+
+- A PE fund operates as a closed-end partnership and as such has a clearly defined term; once all portfolio holdings have been exited, a dissolution event is triggered that begins the winding down process and the end of the GP-LP relationship
+
+- Termination and liquidation become complex if residual holdings remain in the fund as it reaches its final year
+
+- Depending on fund performance and the state of the GP-LP relationship, the parties will choose from an array of solutions to bring the fund to a conclusion ranging from the extension of the fund's term to the removal of its GP.
+
+* Case Study 19: Asian Private Equity: A Family Office's Quest for Return

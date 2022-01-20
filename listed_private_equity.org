@@ -1,0 +1,100 @@
+#+TITLE: Chapter 22: Listed Private Equity
+
+Listed Private Equity vehicles promise retail investors an avenue to gain exposure to PE, an asset class usually accessible only to institutional investors and high net-worth individuals due to the minimum investments needed to subscribe to traditional closed-end funds.
+
+* Listed PE Firms
+
+Listed PE firms (LGPs) make up a small but influential proportion of the LPE universe. Some PE firms that are (were) publicly traded: Blackstone, KKR, Apollo, Carlyle.
+
+Retail investors buying into the stock effectively assume the same position as the partners in the PE firm.
+
+* Benefits of Listing
+
+The benefit to the founders and equity partners of these PE firms is straightforward: cash out of a successful franchise built over decades .
+
+Others:
+
+- Diversified Capital Base
+  - Reduces pressure on future fundraising
+- More skin in the game
+  - With more sources of capital, LGPs are able to increase their own percentage commitment in their closed-end funds
+- Compensation
+  - A listing makes it possible to create attractive incentive structures for the next generation of partners joining the firm
+  - This in turns provides an exit avenue for founders wishing to retire
+- Brand Building
+  - May raise the status of the brand and facilitate future fundraising, talent attraction, and access to potential target companies
+- Acquisition Currency
+  - A LGP can use its shares to acquire other companies to expand its fund management activity into other asset classes
+
+* New Challenges from Listing
+
+** Cost of Listing
+
+an IPO requires time, resources, and attention from a PE firm's senior partners, shifting the focus from the business at hand.
+post-IPO will require time and resources for ensuring compliance with regulatory demands
+
+** Conflicts of Interest
+
+LGPs need to carefully manage the inherent conflict between the fund's public shareholders and its LPs.
+
+** Distraction from Core Business
+
+Many of the LPE firms have expanded their businesses rapidly in the years following IPO. Some example add-ons:
+- hedge funds
+- real estate
+- infrastructure
+- mergers and acquisitions
+
+* Listed PE Funds
+
+The vast majority of LPE instruments are listed funds (LFs). LFs -- also referred to as evergreen funds -- provide a permanent source of capital for a PE firm to conduct its investment activity. Like closed-funds, fund managers raise LPs to execute future investments or to purchase existing PE stakes through a secondary transaction.
+
+A LF is typically raised and managed alongside a PE firms' closed-end vehicles. PE firms invest capital from a LP into companies on a standalone basis, alongside closed-end funds as a co-investment in private companies, or into closed-end funds as an LP.
+
+* Benefits of a Listed Fund
+
+PE firms that raise LPs are typically established managers with a history of managing closed-end limited partnerships.
+
+Some benefits of a LF:
+
+- Permanent Economics
+  - LFs provide a permanent source of management fees and carried interest to their sponsoring PE firm
+- Reduced fundraising requirement:
+  - The permanent capital provided by a LP circumvents the time constraints and demands of raising a string of closed-end funds
+- Reduced pressure to exit
+  - LFs have no fixed term, and proceeds from an IPO are retained on the balance sheet indefinitely. 'Patient Capital'
+- Future access to capital
+  - A secondary offering of shares in a LF allows a PE firm to raise additional funds in the same vehicle if and when required
+- Diversified Investor Base
+  - Raising a LF diversifies a PE firm's investor base away from traditional LPs in closed-end funds
+
+LFs also offer specific benefits to its investors and shareholders:
+
+- Less complex
+  - LFs a few years after the IPO will usually no longer ben exposed to the J-curve effect given their established portfolio is producing regular cash flows
+- Proxy for Other PE Funds
+  - Large institutional investors may use LFs as a means to temporarily invest capital that is committed to, but to date uncalled by, closed-end funds to create a proxy for their PE exposure and at the same time avoid the drag on returns caused by cash holdings
+
+* Challenges of a Listed Fund
+
+** Illiquidity
+
+To achieve returns from a LF vehicle similar to that of a LP in a traditional closed end PE fund, the public shareholders must hold their shares over an equivalent long time period and ensure that their payouts are tied to the fund's performance. Therefore, LF shares are often thinly traded as investors hold their stakes as a proxy for long-term investments.
+
+** Pressure for "Steady" Performance
+
+There is pressure on management of listed vehicles to show steady and somewhat predictable returns. This conflicts with the lumpy returns produced by PE investments.
+
+** Minority Shareholder Activism
+
+While most LFs are controlled by the sponsoring PE firm, in some instances outside shareholders can gain control by acquiring a significant stake and then push to replace the GP.
+
+** Conflicts with Traditional Vehicles
+
+If a manager invests from various listed and unlisted funds, allocation and valuation problems might arise.
+
+* Key Learning Points
+
+- There are 2 primary types of LPE vehicles: LPE firms and LPE Funds
+- LPE firms sell a stake in the future revenue stream of their management companies (fees and carried interest) while LPE funds provide a permanent source of capital for a PE firm and invest directly in underlying portfolio companies themselves
+- Benefits and challenges for the PE firm, investors, and traditional LPs need to be carefully evaluated and mitigation mechanisms incorporated where needed

@@ -1,0 +1,140 @@
+#+TITLE: Chapter 23: Risk Management
+
+In PE, risk management takes place long before the actual investment decision is made, rather than post investment (as is most common in traditional portfolios of public equity and fixed income). The selection process defines the nature and location of the investment (and risk)up front; long-term lock-up periods make any adjustment exceedingly difficult, once a commitment to a fund has been made.
+
+* Asset Class Risk
+
+Once an investor has decided to allocate a percentage of its total assets under management to PE, the LPs' investment team will develop a detailed strategy to start the investment process and reach the desired target allocation over time. An investor's risk appetite is a key parameter in this process.
+
+The theoretical risk impact of including PE in an investor's portfolio is well understood:
+Adding private, unlisted companies to a traditional portfolio of public equity and fixed income will help diversify the overall portfolio exposure by reducing its volatility and the risk of large drawdowns, thereby increasing its Sharpe ratio.
+
+Adding PE entails specific risks, mainly realted to the closed-end structure of PE funds and the ensuing illiquidity of fund interests.
+
+** Duration
+
+A typical PE fund requires a capital commitment of at least 10 years. While early realizations may occur, LPs must typically wait 4 to 6 years before receiving meaningful distributions of capital.
+
+** Lack of Interim Liquidity
+
+Once capital has been committed and invested through a PE fund, LPs must hold their stakes until the end of a fund's life. While there is a secondary market, selling an LP stake takes time and is often exectued at a discount to a fund's net asset value.
+
+** Lack of Transparency
+
+PE funds are blind-pool investment vehicles. This gives the portfolio's risk exposure a new or opaque dimension that the LP's mandate has to allow for.
+
+** Cash Flow at Risk
+
+LPs have little visibility on the timing and size of cash flows to and from a PE fund. All capital calls and distributions are made at the discretion of the GP and cannot be forecast with certainty.
+
+** Committed vs. Invested Capital
+
+Less than 100% of the LP's committed capital to PE will be drawn down at any one time, as early distributions will offset subsequent investments. This leaves the LP at risk of an overall exposure to PE below its desired level, requiring the investor to overcommit to reach its desired target allocation.
+
+** Regulatory and Tax Risks
+
+New taxation may reduce returns and stricter regulations may make allocations to PE less attractive
+
+** Other
+An allocation to PE requires custom benchmarks to measure and track its success and facilitate an arm's length assessment of the strategy's viability.
+Developing and maintaining suitable benchmarks is not a trivial task, as the risk-return patterns differ significantly from that of traditional asset classes, with PE returns dominated by outliers or extreme performers.
+
+* Portfolio Risk
+
+Once an LP is comfortable investing in PE, it can manage its exposure by constructing a portfolio of PE investments. The goal is to build a diversified portfolio -- not only by strategy (e.g. venture, growth, and buyout) and geography, but also by vintage (the year in which the fund started its investment activity) -- that reduces the idiosyncratic risk linked to a single PE fund allocation. Evidence shows that vintage-year diversification is one of the most effective ways to reduce the risk of a PE portfolio as it offers consistent exposure across different market cycles.
+
+** Concentration Risk
+
+Over time, PE portfolios may lose their initial diversification; concentration may not only result from allocating too small a number of funds, but also from exceptional performance of, or early distributions from, funds with shared characteristics
+
+** Ballooning Portfolio
+
+PE demands that capital distributed from exits be reinvested promptly, yet any new commitments can only be made to PE funds in fundraising -- a requirement that over time will ensure a slowly but surely expanding number of PE funds in the portfolio. With a growing number of funds and GP relationships and a modest number of investment professionals on the LP's side, resources will be stretched.
+
+** Default Risk
+
+Default risk may arise if a LP is unable to meet a capital call, be it due to a cash flow shortage, overcommitment, general financial market stress on the public portfolio side, or simply the mismatch of capital calls and distributions from a mature PE portfolio.
+
+In the past, adjusting a portfolio's riskiness to stay within a desired risk contribution from PE was an elusive target. This has changed with the growth of the secondaries market, which allows LPs to manage their PE exposure more proactively.
+
+LPs may also choose fund of funds to achieve a balanced exposure in PE or access smaller funds umable to accomodate the LP's minimum investment. This reduces the required manpower by outsourcing the allocation decisions to one of the fund of funds managers and promises instant diversification, but it comes at the cost of an additional layer of fees.
+
+* Fund Manager Risk
+
+Selecting fund managers and monitoring their distinct performance over time is a key challenge for LPs.
+
+** Key Person Risk
+
+Successful funds rely on the expertist and knowledge of a few key people: the senior partners in the organization. The "key person risk" (a situation where one or two crucial partners leave a fund manager in the middle of a fund's term) is a concern for investors as it may lead to underperformance.
+
+** Style Drift
+
+This defines a GP's shift away from its original investment strategy and promised mandate. This is not particularly uncommon, but for some investors who have carefully selected each fund to fill a specific diversification need in their portfolios, even subtle changes may upset the balance and shift its overall risk profile.
+
+** Reporting and Transparency
+
+LPs require each individual fund to provide performance data in a consistent and timely manner, to allow for portfolio level reporting to the LP's investment committee. Quarterly reporting has become the standard in the industry.
+
+** Realization Risk
+
+The interim valuations (i.e. NAV) of PE investments will fluctuate throughout the lifetime of the fund and may vary substantially over time from those ultimately realized.
+
+** Foreign Exchange Risk
+
+Most LPs are USD based and invest and receive distributions of USD. Nevertheless, fund managers will convert the dollars raised into local tender for investment. Respectable returns in a local currency may be significantly diminished by adverse exchange rate moves and lead to USD returns well below expectation.
+
+* Risk Management for GPs
+
+** Business Risk
+
+We define business risks as those that threaten the stability of a PE firm's continued operation, focusing on funding and human capital.
+
+*** Funding Risk
+
+Fundraising depends on external circumstances. During the "risk off" periods following crises, even successful fund franchises will find it hard to gain LPs' commitments for new investment vehicles and sustain their businesses.
+
+*** Default Risk
+
+While rare, LPs not meeting their capital commitments will present a major disruption to a GP's business.
+Developing a LP base that is diversified in terms of geography and type helps mitigate this risk.
+
+*** Regulatory Risk
+
+GPs are facing increased regulatory pressure that requires greater transparency and detailed disclosure with regard to their fund's fee structures. Equally, changes in taxation or new regulations on fund raising may negatively impact the operations of a PE firm.
+
+*** Human Resources Risk
+
+When PE firms are successful, they need to grow the size of the deal team proportionally and in a timely fashion. This is particularly challenging if the skills needed to execute the strategy change over time.
+
+*** Succession Risk
+
+The ongoing tension of balancing the interests between senior and up and coming junior partners (and by extension intermediate level professionals) hnas been the main driver for the establishment of new PE firms, resulting from spinoffs of individuals or whole teams.
+
+*** Concentration Risk
+
+Few of the abovementioned risks threaten the survival of a PE firm, but an insufficiently diversified portfolio will.
+
+** Market Risk
+
+*** Macroeconomic Risk
+
+Similar to all financial market participants, PE funds are exposed to macroeconomic shocks and cycles
+Other than a (mostly temporary) effect on investment and exit activity, the impact is mostly felt by portfolio companies.
+
+*** Credit Risk
+
+All GPs are exposed to the credit cycle and its impact on a portfolio company's cost of funding. Buyout funds in particular depend on access to liquid credit markets to execute leveraged buyouts. In times of market stress, severe disruptions in the credit market can impair the value of a portfolio company as well as the ability of buyout firms to execute LBOs.
+
+*** Public Equity Market Risk
+
+Public equity markets are a key determinant of entry and exit multiples of a fund's portfolio companies. At exit, GPs are exposed to illiquidity in the primary equity market, as initial public offering windows can open and close in short order.
+
+*** FX Risk
+
+Fluctuations in foreign exchange rates impact the net performance of a fund's investments.
+
+* Key Learning Points
+
+- Risk management in the PE context is becoming an increasingly important (and more sophisticated) function for LPs and GPs alike
+- The risks of investing in PE from a LP's perspective can be organized into four categories: asset class risk, portfolio risk, fund manager risk, and direct investment risk. Some of these risks deal with general characteristics of PE and others with the execution of building and managing a portfolio
+- For GPs, risk management (beyond that related to deal execution) can be broken down into 2 main categories: business risks and market risks. Some of these risks impact merely performance, while others threaten the existence of the PE firm itself.

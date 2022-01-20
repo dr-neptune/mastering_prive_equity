@@ -1,0 +1,83 @@
+#+TITLE: Chapter 11: Corporate Governance
+
+Corporate governance in PE refers to the practices, processes, and rules put in place to align the interests of owners, investors, and management. Governance effectively decentralizes decision-making, identifies appropriate performance measures and reward systems, and implements effective tools to monitor performance; it is a fundamental part of PE's formula for success.
+
+3 core principles of PE governance stand out:
+- A sense of urgency
+- Active Ownership
+- Alignment of interest between the PE fund and its management teams
+
+* Sense of Urgency
+
+PE firms can achieve their desired returns only if they act as transformation agents during their relatively short period of ownership. The standard return measure in PE, the internal rate of return (IRR), contributes to this urgency by including both the time value of money and the length of the holding period in its calculation.
+
+** Strategic Alignment
+
+The company's strategy is discussed with management throughout the pre-deal process not only to receive their input, but also to ensure their buy-in for its subsequent implementation.
+
+** Leverage
+Given the uncertainy inherent in the business plan -- also referred to as operational risk -- PE firms and management focus on reducing financial risk through debt repayment, initially ahead of schedule. Financial headroom makes a business become resilient if operational adversity surfaces or its equity becomes more valuable at an earlier stage.
+
+** Driving Operational Change
+PE investors, particularly those with a controlling stake, often create special task forces or working groups consisting of board members, the second layer of senior management, and outside specialists (as needed) to address high-priority initiatives.
+
+** Management Change
+For PE investors with a controlling stake or considerable influence over a portfolio company's board, changing the management team is always an option; in fact, some sources cite a replacement rate of top management for buyouts in excess of 50%.
+
+
+** Monitoring
+Boards of PE-backed companies continuously monitor key performance indicators and business performance to intervene when necessary.
+
+* The Board in Buyouts and Majority Deals
+
+In control situations, PE investors use the board of directors as their main mechanism to monitor and influence the company and management. Major strategic reviews and planning activities happen at the board level.
+
+PE-backed boards meet much more frequently than publicly listed boards and have a significantly lower percentage of
+independent directors than do public companies. Boards are typically small: directors consist of partners of the controlling PE firm, management team members, and a few select independent directors.
+
+** PE Investors
+The PE firm's board representatives are responsible for setting the strategic direction of the business and provide the key interface between the PE fund and the portfolio company. PE firms typically nominate senior deal team members and/or operating partners as board members. The deal team's lead partner usually occupies a set to supervise the execution of the investment thesis and take overall responsibility for the investment. Operating partners are often former senior executives with expertise in a given sector. PE's financial partners will have repeat experience in managing, restructuring, and directing companies in their respective industries, making their advice valuable and often complementary to the company's senior managers.
+
+** Independent Directors
+Independent directors try to fill a knowledge/skill gap missing by the PE fund's operating partners.
+
+** Management Team Members
+Typically board representation from management consists of one or two directors, typically the CEO and CFO.
+
+* PE Governance in Specific Settings
+
+PE firms are particularly active immediately following investment and again at exist, with additional engagement depending on the performance of and select activity at the company.
+
+** The First 100 Days
+The "First 100 Day" plan is launched based on findings from due diligence and initial engagement with the business.
+Boards will define immediate business priorities, reach concensus on company strategy, assign roles and responsibilities, and review decision-making and monitoring processes.
+
+** Steady State
+When the business is performing well, the engagement is minimal and the monitoring is passive. When struggling, a PE firm may tap partners or independent directors with industry experience to support the company.
+
+** Roll-ups, Acquisitions, and Debt
+The engagement of the PE firm's partners increases when a portfolio company pursues a roll-up strategy and acquires several competitors to reach economies of scale and improve its market position.
+
+** Managing the Exit
+The PE partner's engagement at a portfolio company also ramps up as exit approaches and the business is prepared for sale,
+potential buyers are identified, and the sale process is launched.
+
+* Alignment of Interest | Management Incentives
+
+Incentivizing management teams and external board members appropriately and in line with the PE owner's goals is a crucial ingredient of the PE model. This is typically achieved by requiring managers to co-invest alongside the PE fund in order for them to have real skin in the game.
+
+* Key Learning Points
+
+- 3 core principles of corporate governance within PE firms stand out:
+  - a strong sense of urgency
+  - active ownership
+  - alignment of intereset between owners and managers
+
+- The sense of urgency results from a fund's short ownership period and the preferred return measure in PE context (i.e., IRR)
+
+- The main forum for setting strategy and monitoring performance is a portfolio company's board of directors, for both
+the minority and majority PE investors
+
+- Engagement with the portfolio company changes throughout the holding period and depends very much on the business's performance
+
+* Case #10: Investor Growth Capital: The Bredbandsbolaget Investment

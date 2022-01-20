@@ -1,0 +1,75 @@
+#+TITLE: Target Valuation
+
+* The Valuation Toolkit
+
+At the core of the valuation process stands a detailed business plan that translates a target's forward-looking risks and opportunities into a multiyear financial forecast.
+
+PE investors also apply valuation multiples from comparable businesses and operating metrics from the business plans to arrive at a companies enterprise valuation. A common key metric is earnings before interest, taxes, depreciation, and amortization (EBITDA). They then derive a target's equity value by subtracting its net debt (mostly interest bearing liabilities and cash) from its enterprise valuation.
+
+Enterprise Value = EBITDA * EBITDA Multiple
+Equity Value = Enterprise Value - Net Debt = EBITDA * EBITDA Multiple - Net Debt
+
+Strategic investors employ different valuation methods, as they emphasize the long-term value of acquisitions as well as possible synergies with existing business. They tend to favor the discounted cash flow (DCF) valuation, which uses future free cash flow projections and discounts them to arrive at an estimate of the present value.
+
+PE investors mostly consider the output from a DCF valuation only in a complementary manner or to assess how other parties may value the target.
+
+* Venture Capital Valuation of Early Stage Companies
+
+Generally, nothing (or not much) is known when choosing a target company as a VC fund. In order to allow for the substantial failure rate among early stage companies, VC investors generally set a high target rate of return. Usually the targeted internal rate of return (IRR) ranges from 40% - 80%, depending on the maturity of the company.
+
+The starting point is the amount of capital a startup company will need to reach its next stage of development; typically enough to last the company for 12 - 18 months before new funds will be needed. VC funds work backwards from that number, considering the target IRR for the investment, the company's expected future value, and the number of years to exit to determine a start-ups post money valuation and the VC fund's equity ownership percentage.
+
+As startups are typically funded entirely by equity, the enterprise valuation and equity valuation are broadly the same.
+
+* Growth Equity and Buyouts | Valuations of Mature Companies
+
+Growth Equity and Buyout investors target mature, profitable companies with established operations and a track record of performance. This gives investors access to historical data. These investors tend to focus on profit multiples to value a target; EBIT and EBITDA are preferred over net earnings, as they are not subject to a company's capital and tax structure.
+
+Based on input from management and findings from due diligence, growth equity and buyout investors develop business plans with multiple operating scenarios: the base case financial scenario with expected performance, and then a downside and upside case addresses differences in performance.
+
+Buyout funds value a company's enterprise value at acquisition and exit based on current and forecast EBITDA and its comparable EBITDA multiple; then they use a market-based debt multiple to determine an acquisition financing structure and to forecast a debt repayment schedule. Based on this analysis, the equity required for the company's purchase, and the expected return to equity at exit can be calculated. Given these values and assumptions, a PE investor arrives at a target return, expressed as an IRR and a multiple of money invested (MoM).
+
+* More on Valuation Multiples
+
+A valuation multiple is an expression of the market value of a company relative to a key statistic driving that value.
+
+
+
+** Identifying Comparables
+
+PE investors typically draw on publicly listed companies and recent mergers and acquisitions transactions when identifying a target's comparable set of companies. They consider the underlying drivers of the target company's value and look for companies with similar business and product lines, asset size, number of employees, revenue growth, margins, return on invested capital, and cash flow.
+
+** Identifying Multiples
+
+Once a group of comparable peer firms have been identified, PE investors will choose valuation multiples that best reflect the individual dynamics and value drivers of the target. A range of multiples is often used for a given transaction, which offers different valuations and price points.
+
+Here are some multiples:
+
+*** EV/EBITDA
+
+EV to EBITDA is the most commonly used multiple, as EBITDA is largely insulated from the impact of different global accounting standards, simple to calculate, and a proxy for operating cash flow. EV/EBIT is also commonly used.
+
+*** EV/OpFCF
+
+EV to operating free cash flow (OpFCF) is often used in capital intensive industries.
+
+OpFCF provides a business's earnings after deducting the spending required to maintain the profitability and competitive position of the company.
+
+*** EV/Sales
+
+Sales multiples are typically employed for companies with strong growth but high cyclicality and low or negative profitability. Sales multiples are an incomplete comparison as they do not consider profitability or cash flow.
+
+*** EV/Book Value
+
+EV to Book Value, or net asset value, is used for asset-heavy companies.
+
+Book value provides a simple figure for comparison as it represents the residual value to the company's owners after subtracting the value of liabilities from the value of assets.
+
+* Key Learning Points
+
+- At the core of any valuation process stands a detailed business plan that translates a target's forward-looking risks and opportunities into a multiyear financial forecast
+- For VC investments in early-stage companies, valuation is typically used as a tool to determine an equity stake a VC firm requires for a given dollar amount invested, taking into account the VC's target return
+- For growth equity and buyout investments in mature companies, valuation is typically based on a target's profit and cash flow and corresponding multiples of a comparable business
+- An important part of the valuation process is to develop a consistent way to compare potential investments. Specifically, investors will use a valuation multiple -- which provides a market based, "apples to apples" method -- to determine the value of a target using data drawn from a comparable set of companies
+
+* Chips on the Side (B): The Buyout of Avago Technologies
